@@ -1,0 +1,15 @@
+title: tkh4ck.github.io
+description: >- 
+  Personal website and blog of tkh4ck
+url: "tkh4ck.github.io"
+twitter_username: tkh4ck
+github_username:  tkh4ck
+
+# Build settings
+theme: jekyll-theme-hacker
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+

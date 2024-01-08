@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Mohave:wght@300&family=Pacifico&family=Roboto:wght@300;400;900&display=swap" rel="stylesheet">
+    <title>Ahoy!</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/notyf@3/notyf.min.css">
+    <style>
+        html, body {
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            width: 100vw;
+            height: 100vh;
+            font-family: 'Roboto', sans-serif;
+            background: radial-gradient(circle, rgba(90, 156, 220, 1) 0%, rgba(11, 82, 137, 1) 50%, rgba(3, 22, 36, 1) 100%);
+        }
+        
+        canvas {
+            position: absolute;
+        }
+        
+        .wrapper {
+            width: 100vw;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            position: absolute;
+            z-index: 999;
+        }
+        
+        .wrapper.hidden {
+            display: none;
+        }
+        
+        .msgbox-raceresults {
+            background: white;
+            border: 1px solid gray;
+            margin: auto;
+            max-width: 300px;
+            padding: 3ch;
+            text-align: center;
+            width: 400px;
+            border-radius: 20px;
+        }
+        
+        .msgbox-raceresults button {
+            padding: 6px 9px;
+        }
+        img.svgref {
+            display: none;
+        }
+        
+        .shortcuts {
+          position: absolute;
+          color: black;
+          z-index: 99999;
+          width: 400px;
+          left: calc(50% - 200px);
+          height: 100%;
+          display: none;
+          align-items: center;
+          justify-content: center;
+          font-size: 1em;
+          pointer-events: none;
+        }
+
+        .shortcuts.visible {
+          display: flex;
+        }
+
+        .shortcuts .destination-picker {
+          margin: 1ch 1ch;
+          background: white;
+          padding: 0 3ch;
+          border-radius: 29px;
+          width: 100%;
+          position: relative;
+          padding-bottom: 8ch;
+          pointer-events: all;
+        }
+
+        button.clearBearing.smol {
+            position: absolute;
+            bottom: 17px;
+            left: 93px;
+        }
+
+        button.closeBearing.smol.realsmol {
+            position: absolute;
+            top: 15px;
+            right: 8px;
+        }
+
+        .shortcuts .destination-picker h4 {
+          margin: 11px 0 5px 0;
+          color: #666;
+        }
+        
+        .shortcuts ul {
+          list-style: none;
+          width: 100%;
+          margin: 0;
+          padding: 0;
+        }
+        
+        .shortcuts li {
+            cursor: pointer;
+        }
+
+        .shortcuts li.selected {
+            color: #2268a1;
+            font-weight: bold;
+        }
+
+        .port-label {
+            position: absolute;
+            width: 290px;
+            background: white;
+            text-align: center;
+            z-index: 999999999;
+            opacity: 0;
+            transition: opacity .25s;
+            padding: 2ch;
+            border-radius: 40px;
+            pointer-events: none;
+        }
+
+        .port-label.visible {
+            opacity: 1;
+            pointer-events: all;
+        }
+
+        .port-label h3 {
+            font-family: 'Pacifico', cursive;
+            font-size: 2em;
+            margin-bottom: 0.75em;
+        }
+
+        .port-label p {
+            margin-bottom: -23px;
+            font-style: italic;
+        }
+
+        .port-label button {
+            font-family: 'Roboto', cursive;
+            margin-bottom: 0.5em;
+            padding: 1ch 2ch;
+            font-size: 1.02em;
+        }
+
+        .ui {
+            position: fixed;
+            font-size: 11px;
+            color: white;
+            bottom: 0px;
+            z-index: 99999;
+            width: 100%;
+            display: flex;
+            align-content: center;
+            justify-content: center;
+            align-items: center;
+            height: 150px;
+        }
+
+        button {
+            background-color: #fbeee0;
+            border: 2px solid #422800;
+            border-radius: 30px;
+            box-shadow: #422800 4px 4px 0 0;
+            color: #422800;
+            cursor: pointer;
+            display: inline-block;
+            font-weight: 600;
+            font-size: 18px;
+            padding: 0 18px;
+            line-height: 50px;
+            text-align: center;
+            text-decoration: none;
+            user-select: none;
+            -webkit-user-select: none;
+            touch-action: manipulation;
+            margin: 0 1ch;
+        }
+
+        button.smol {
+            background-color: #fbeee0;
+            border: 2px solid #422800;
+            border-radius: 30px;
+            box-shadow: #422800 4px 4px 0 0;
+            color: #422800;
+            cursor: pointer;
+            display: inline-block;
+            font-weight: 600;
+            font-size: 16px;
+            padding: 0 18px;
+            line-height: 40px;
+            text-align: center;
+            text-decoration: none;
+            user-select: none;
+            -webkit-user-select: none;
+            touch-action: manipulation;
+            margin: 0 1ch;
+        }
+
+        button.realsmol {
+          padding: 0 12px;
+          line-height: 25px;
+        }
+    
+
+        button:hover {
+            background-color: #fff;
+        }
+
+        button.reelitin.gotone {
+            color: white;
+            background: red;
+            border: 2px solid white;
+        }
+
+        .cotd {
+            position: absolute;
+            padding: 3ch;
+            z-index: 8888888;
+            background: white;
+            left: calc(50% - 400px);
+            text-align: center;
+            border-radius: 20px;
+            top: calc(50% - 280px);
+            display: none;
+            filter: drop-shadow(3px 3px 17px #000000);
+            grid-template-columns: 300px 1fr;
+            grid-gap: 2ch;
+            align-items: center;
+        }
+
+        .cotd .cotd-info {
+            width: 300px;
+        }
+
+        .cotd .cotd-info h3 {
+            font-size: 1.5em;
+        }
+
+        .cotd p.description {
+            text-align: left;
+            font-size: .825em;
+            max-height: 285px;
+            overflow-y: auto;
+        }
+
+        .cotd.visible {
+            display: flex;
+        }
+
+        .cotd img {
+            width: 420px;
+            border: 1px solid black;
+        }
+        
+        button.sayAhoy[disabled] {
+            opacity: 1;
+            transition: opacity .5s;
+        }
+        
+        button.sayAhoy[disabled] {
+            opacity: .5;
+            cursor: default;
+        }
+        div.overlay {
+          width: 882px;
+          height: 455px;
+          position: absolute;
+          top: calc(50% - 227px);
+          left: calc(50% - 441px);
+          background: url(assets/overlay.png) no-repeat;
+          z-index: 99999;
+          display: none;
+        }
+
+        .settings {
+            position: absolute;
+            padding: 3ch;
+            z-index: 8888888;
+            background: white;
+            left: calc(50% - 125px);
+            text-align: center;
+            border-radius: 20px;
+            top: calc(50% - 200px);
+            display: none;
+            filter: drop-shadow(3px 3px 17px #000000);
+            grid-template-columns: 300px 1fr;
+            grid-gap: 2ch;
+            align-items: center;
+        }
+
+        .settings.visible {
+            display: flex;
+        }
+
+        .settings-child {
+            width: 250px;
+        }
+
+        button.closeSettings.smol.realsmol {
+            position: absolute;
+            top: 15px;
+            right: 8px;
+        }
+
+        .update-sails {
+            margin-bottom: 3ch;
+        }
+
+        .update-sails .sail-group {
+            margin: 1ch 0;
+        }
+
+        .update-prefs {
+            margin: 2ch;
+            font-size: 1.25em;
+        }
+        .sail-group span {
+            width: 70px;
+            display: inline-block;
+        }
+    </style>
+</head>
+<body>
+    <!-- <a href='fishdensityref.html'>[DEV ONLY] Fish Density Reference</a> -->
+    <div class="overlay"></div>
+    <div class="ui">
+        <button class="quitrace">Exit Race</button>
+        <button class="castreel">Cast Line</button>
+        <button class="reelitin">Reel it in</button>
+        <button class="openpescadex">Pescadex</button>
+        <button class="setbearing">Set Bearing</button>
+        <button class="sayAhoy">AHOY!</button>
+        <button class="settingsBtn">
+            <i class="fas fa-cog"></i>
+        </button>
+    </div>
+    <div class="cotd">
+        <div class="cotd-info">
+            <h3>You caught a Jovian Jamboree Jellydonut Jellyfish!</h3>
+            <p class="description">The Flutterfin Rainbow-Roll is a vibrant, pocket-sized fish that sports the magical scaling of a chameleon, subtly shifting and shimmering in a spectrum of hues as it moves through the water. Its body is elongated and cylindrical, resembling a delicious sushi roll, from which it got its name. This exotic creature boasts soft, multi-colored feather wings, inspired by a butterfly, enabling it to perform an enchanting underwater ballet. Additionally, its eyes, reminiscent of a kind-hearted old labrador, possess an endearing, empathetic quality. It has the distinctive feature of an inanimate object: a built-in flashlight nose, which it uses to explore the depths of the aquatic world and stun its prey.</p>
+            <button class="closefeesh smol">Close</button>
+            <button class="tweet smol">Share on X!</button>
+        </div>
+        <div class="pescadex">
+          <img src="" />
+          <div class="controls">
+            <button class="prevBtn smol realsmol"><</button>
+            <span class="findex">X of Y</span>
+            <button class="nextBtn smol realsmol">></button>
+          </div>
+        </div>
+
+    </div>
+    <div class="shortcuts">
+      <div class="destination-picker">
+        <h3>Select a destination:</h3>
+        <div class="port-list"></div>
+        <button class="clearBearing smol">Clear Destination</button>
+        <button class="closeBearing smol realsmol">Close</button>
+      </div>
+    </div>
+    <div class="port-label">
+        <p></p>
+        <h3></h3>
+        <button>Dock Now</button>
+    </div>
+    <div class="settings">
+        <div class="settings-child">
+            <button class="closeSettings smol realsmol">Close</button>
+            <div class="update-sails">
+                <h3>Sail Colors</h3>
+                <div x-sail="3" class="sail-group">
+                    <button class="sailPrev smol"><</button>
+                    <span></span>
+                    <button class="sailNext smol">></button>
+                </div>
+                <div x-sail="2" class="sail-group">
+                    <button class="sailPrev smol"><</button>
+                    <span></span>
+                    <button class="sailNext smol">></button>
+                </div>
+                <div x-sail="1" class="sail-group">
+                    <button class="sailPrev smol"><</button>
+                    <span></span>
+                    <button class="sailNext smol">></button>
+                </div>
+            </div>
+            <div class="update-prefs">
+                <input type="checkbox" class="show-others">Show other players</input>
+            </div>
+            <button class="saveSettings smol">Save Settings!</button>
+        </div>
+    </div>
+    <div class="wrapper hidden">
+        <div class="msgbox-raceresults">
+            <p class='racename'>You completed Island Shuffle in</p>
+            <h2 class='racetime'>26.944343 Seconds</h2>
+            <p class='racehighscore'>That's the 4th best score out of 432</p>
+            <button class="closeResults">Awesome!</button>
+            <button class="showScores">View Scores</button>
+        </div>
+    </div>
+    <img class="svgref" />
+    <canvas tabindex="1"></canvas>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/notyf/3.10.0/notyf.min.js" integrity="sha512-467grL09I/ffq86LVdwDzi86uaxuAhFZyjC99D6CC1vghMp1YAs+DqCgRvhEtZIKX+o9lR0F2bro6qniyeCMEQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script type="application/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/chance/1.1.11/chance.min.js" integrity="sha512-Mvo/gaGprTVzN9i+swfStIsSkBkzMsTRgWdES5BuVoV5WP9/SfJgoR+GlQIYMS4RCf62DiAn/JR/Im3q/GHNNg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script>
+        window.SEA_WS_HOST = 'wss://2023.holidayhackchallenge.com/sail';
+    </script>
+    <script type="application/javascript" src="js/client.js?nocache=27060298323552"></script>
+</body>
+</html>

@@ -4,6 +4,7 @@ description: >-
 url: "tkh4ck.github.io"
 twitter_username: tkh4ck
 github_username:  tkh4ck
+repository: tkh4ck/tkh4ck.github.io
 
 # Build settings
 theme: jekyll-theme-hacker

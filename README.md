@@ -18,11 +18,13 @@ You can reach me via [email](mailto:tkh4ck@proton.me) or [Twitter](https://twitt
 
 ## Blog
 
-- [2023](blog/2023)
+- [2024](blog/2024)
   - [TBD](TBD)
 
 ## CTFs
 
+- [2023](ctf/2023)
+  - [SANS Holiday Hack Challenge](ctf/2023/sans-holiday-hack-challenge)
 - [2022](ctf/2022)
   - [Hack The Box Business CTF](ctf/2022/htb-business)
 

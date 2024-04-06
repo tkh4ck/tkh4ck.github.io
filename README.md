@@ -16,17 +16,19 @@ I love
 
 You can reach me via [email](mailto:tkh4ck@proton.me) or [Twitter](https://twitter.com/tkh4ck).
 
-## Blog
-
-- [2024](blog/2024)
-  - [TBD](TBD)
-
 ## CTFs
 
+- [2024](ctf/2024)
+  - [Hack The Box Cyber Apocalypse 2024: Hacker Royale](ctf/2024/htb-cyber-apocalypse)
 - [2023](ctf/2023)
   - [SANS Holiday Hack Challenge](ctf/2023/sans-holiday-hack-challenge)
 - [2022](ctf/2022)
   - [Hack The Box Business CTF](ctf/2022/htb-business)
+
+## Blog
+
+- [2024](blog/2024)
+  - [TBD](TBD)
 
 ## References
 

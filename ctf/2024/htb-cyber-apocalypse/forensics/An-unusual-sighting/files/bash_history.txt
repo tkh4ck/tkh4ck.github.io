@@ -1,0 +1,85 @@
+[2024-02-13 11:31:01] useradd -mG sudo softdev
+[2024-02-13 11:32:12] passwd softdev
+[2024-02-13 11:33:13] apt update && apt install wget gpg
+[2024-02-13 11:35:01] wget -qO- https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > packages.microsoft.gpg
+[2024-02-13 11:36:28] install -D -o root -g root -m 644 packages.microsoft.gpg /etc/apt/keyrings/packages.microsoft.gpg
+[2024-02-13 11:37:01] sh -c 'echo "deb [arch=amd64,arm64,armhf signed-by=/etc/apt/keyrings/packages.microsoft.gpg] https://packages.microsoft.com/repos/code stable main" > /etc/apt/sources.list.d/vscode.list'
+[2024-02-13 11:37:58] apt update && apt install python3 python-is-python3 code git
+[2024-02-13 11:38:10] git clone https://git.korp.htb/cmd_dev1.git
+[2024-02-13 11:39:10] chown -R softdev:softdev ../dev_project
+[2024-02-13 11:40:01] sudo -u softdev python -m venv cms
+[2024-02-13 11:40:58] source ./cms/bin/activate
+[2024-02-13 11:42:01] python -m pip install -r requirements.txt
+[2024-02-13 11:56:01] python ./server.py
+[2024-02-15 10:41:51] ps aux | grep "server.py"
+[2024-02-15 18:52:01] nvim server.py
+[2024-02-15 18:56:01] source ./cms/bin/activate
+[2024-02-15 18:57:01] python ./server.py
+[2024-02-16 10:27:11] nvim server.py
+[2024-02-16 10:28:29] source ./cms/bin/activate
+[2024-02-16 12:38:11] python ./server.py --tests
+[2024-02-16 14:40:47] python ./server.py --tests
+[2024-02-19 04:00:18] whoami
+[2024-02-19 04:00:20] uname -a
+[2024-02-19 04:00:40] cat /etc/passwd
+[2024-02-19 04:01:01] cat /etc/shadow
+[2024-02-19 04:01:15] ps faux
+[2024-02-19 04:02:27] wget https://gnu-packages.com/prebuilts/iproute2/latest.tar.gz -O /tmp/latest_iproute.tar.gz
+[2024-02-19 04:10:02] tar xvf latest.tar.gz
+[2024-02-19 04:12:02] shred -zu latest.tar.gz
+[2024-02-19 04:14:02] ./setup
+[2024-02-20 11:11:14] nvim server.py
+[2024-02-20 11:48:40] source ./cms/bin/activate
+[2024-02-20 11:49:29] python ./server.py --tests
+[2024-02-20 13:50:14] python ./server.py --tests
+[2024-02-20 14:50:04] python ./server.py --tests
+[2024-02-21 10:51:27] sudo apt update
+[2024-02-21 10:52:58] sudo apt dist-upgrade
+[2024-02-21 18:17:59] code .
+[2024-02-22 12:09:39] code .
+[2024-02-22 12:19:28] source ./cms/bin/activate
+[2024-02-22 12:20:10] python ./server.py --verbose 2>1 | tee /tmp/server_logs.log
+[2024-02-22 17:20:10] python ./server.py --verbose --tests 2>1 | tee /tmp/server_logs.log
+[2024-02-23 10:49:50] source ./cms/bin/activate
+[2024-02-23 10:51:19] code .
+[2024-02-23 12:50:46] python ./server.py --verbose
+[2024-02-23 12:51:19] ps aux | grep "server.py"
+[2024-02-23 12:52:01] kill -s SIGUSR1 2561
+[2024-02-23 18:18:06] nvim requirements.txt
+[2024-02-23 18:19:17] source ./cms/bin/activate
+[2024-02-23 18:21:01] python -m pip install -r requirements.txt
+[2024-02-24 11:16:08] source ./cms/bin/activate
+[2024-02-24 11:17:07] code .
+[2024-02-24 13:20:18] pythom ./server.py --tests
+[2024-02-24 13:20:25] python ./server.py --tests
+[2024-02-24 14:08:18] sudo apt update && sudo apt dist-upgrade
+[2024-02-26 10:00:17] nvim requirements.txt
+[2024-02-26 10:20:31] source ./cms/bin/activate
+[2024-02-26 10:21:20] python -m pip install -r requirements.txt
+[2024-02-26 15:07:18] source ./cms/bin/activate
+[2024-02-26 15:07:57] code .
+[2024-02-26 15:10:57] python ./server.py --verbose --tests 2>1 | tee /tmp/server_logs.log
+[2024-02-26 17:27:10] cat /tmp/server_logs.log | grep "CRITICAL"
+[2024-02-26 18:30:46] python ./server.py --verbose --tests 2>1 | tee /tmp/server_logs.log
+[2024-02-26 18:37:10] cat /tmp/server_logs.log | grep "CRITICAL"
+[2024-02-27 13:42:37] source ./cms/bin/activate
+[2024-02-27 13:43:09] code .
+[2024-02-27 13:59:01] python ./server.py --verbose
+[2024-02-27 14:30:29] python ./server.py --verbose
+[2024-02-27 15:31:59] python ./server.py --verbose
+[2024-02-27 15:58:18] python ./server.py --verbose
+[2024-02-27 17:16:39] python ./server.py --verbose
+[2024-02-28 17:19:50] code .
+[2024-02-28 18:28:01] git add .
+[2024-02-28 18:37:09] git commit -m "[WIP] Add Initial Refactor"
+[2024-02-28 18:40:11] git push
+[2024-02-29 09:58:14] code .
+[2024-02-29 10:20:14] source ./cms/bin/activate
+[2024-02-29 10:23:14] python ./server.py --headless
+[2024-02-29 18:01:50] code . 
+[2024-02-29 18:20:11] srouce ./cms/bin/activate
+[2024-02-29 18:20:18] source ./cms/bin/activate
+[2024-02-29 18:21:19] python ./server.py
+[2024-02-29 18:50:20] git add .
+[2024-02-29 18:51:45] git commit -m "[WIP] Add daemon mode"
+[2024-02-29 18:52:20] git push

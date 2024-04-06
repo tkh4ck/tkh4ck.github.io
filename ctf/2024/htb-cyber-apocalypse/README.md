@@ -34,10 +34,10 @@ I mainly solved **blockchain**, **crypto**, **forensics**, **reverse** and **mis
 ![Forensics results](media/forensics.png)
 
 - [blockchain](blockchain)
-  - [Ledger Heist](blockchain/Ledger-Heist)
+  - [Lucky Faucet](blockchain/Lucky-Faucet)
   - [Russian Roulette](blockchain/Russian-Roulette)
 - [crypto](crypto)
-  - [Partial Tenicity](crypto/Partial-Tenicity)
+  - [Partial Tenacity](crypto/Partial-Tenacity)
   - [ROT128](crypto/ROT128)
 - [forensics](forensics)
   - [An unusual sighting](forensics/An-unusual-sighting)

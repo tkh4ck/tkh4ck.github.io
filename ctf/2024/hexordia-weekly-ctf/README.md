@@ -2,10 +2,10 @@
 
 The CTF is created by [Hexordia](https://www.hexordia.com). It is a 4-week long mobile forensics CTF. The file system images are the same as the ones used in the Magnet Forensics Virtual Summit CTF, but the challenges are different.
 
-- CTF details on Hexordia page: https://www.hexordia.com/spring2024-weekly-ctf-challenge
-- The official challenge site: https://hex2024weekly.ctfd.io/
+- CTF details on Hexordia page: <https://www.hexordia.com/spring2024-weekly-ctf-challenge>
+- The official challenge site: <https://hex2024weekly.ctfd.io/>
 - The images can be downloaded from: [Google Drive](https://drive.google.com/drive/folders/1zynwO2BaccA2EOTcRYhKV5CjKuWWU2l6)
-- Twitter post: https://twitter.com/hexordia/status/1776233825900646756
+- Twitter post: <https://twitter.com/hexordia/status/1776233825900646756>
 
 ## Week 1
 

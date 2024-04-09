@@ -1,6 +1,7 @@
 # CTF
 
 - [2024](2024)
+  - [Hexordia Weekly CTF](2024/hexordia-weekly-ctf)
   - [Hack The Box Cyber Apocalypse 2024: Hacker Royale](2024/htb-cyber-apocalypse)
 - [2023](2023)
   - [SANS Holiday Hack Challenge](2023/sans-holiday-hack-challenge)

@@ -20,7 +20,7 @@
 
 ### Video
 
-<!-- <video src="media/camera-access.mp4" width='100%' controls playsinline></video> -->
+<iframe width="1280" height="720" src="https://youtu.be/LtHHYrNxOEw?t=4639" title="SANS Holiday Hack Challenge 2023 - Camera Access" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Write-up
 

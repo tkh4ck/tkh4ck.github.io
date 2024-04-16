@@ -12,8 +12,6 @@
 
 > **Gameboy 2**: Try poking around Pixel Island. There really aren't many places you can go here, so try stepping everywhere and see what you get!
 
-
-
 ### Metadata
 
 - Difficulty: 3/5
@@ -23,8 +21,7 @@
 
 ### Video
 
-Videos are coming soon! I did not want to put them on GitHub as they are 10 - 100 MBs.
-<!-- <video src="media/game-cartridges-vol-2.mp4" width='100%' controls playsinline></video> -->
+<iframe width="1280" height="720" src="https://youtu.be/LtHHYrNxOEw?t=1405" title="SANS Holiday Hack Challenge 2023 - Game Cartridges: Vol 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Write-up
 

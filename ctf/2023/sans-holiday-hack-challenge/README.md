@@ -65,3 +65,7 @@ All discoverable destinations / locations were, for reference:
     - Spaceport Point
     - Cape Cosmic
     - Zenith SGS
+
+## Credits
+
+<iframe width="1280" height="720" src="https://youtu.be/LtHHYrNxOEw?t=5771" title="SANS Holiday Hack Challenge 2023 - Credits" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

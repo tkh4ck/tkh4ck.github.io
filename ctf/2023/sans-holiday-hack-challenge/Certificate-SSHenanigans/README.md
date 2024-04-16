@@ -31,8 +31,7 @@ Oh, and if you need to peek at the Function App code, there's a handy Azure REST
 
 ### Video
 
-Videos are coming soon! I did not want to put them on GitHub as they are 10 - 100 MBs.
-<!-- <video src="media/certificate-sshenanigans.mp4" width='100%' controls playsinline></video> -->
+<iframe width="1280" height="720" src="https://youtu.be/LtHHYrNxOEw?t=3100" title="SANS Holiday Hack Challenge 2023 - Cerificate SSHenanigans" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Write-up
 

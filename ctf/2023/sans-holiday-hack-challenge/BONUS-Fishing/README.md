@@ -32,8 +32,7 @@ Go see if you can catch, say, 20 different types of fish!*
 
 ### Video
 
-Videos are coming soon! I did not want to put them on GitHub as they are 10 - 100 MBs.
-<!-- <video src="media/fishing.mp4" width='100%' controls playsinline></video> -->
+<iframe width="1280" height="720" src="https://youtu.be/LtHHYrNxOEw?t=5652" title="SANS Holiday Hack Challenge 2023 - Bonus! Fishing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Write-up
 

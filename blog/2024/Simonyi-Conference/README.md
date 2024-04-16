@@ -12,4 +12,4 @@ To reflect on the presentation:
 
 The presentation was recorded and can be seen [here](https://www.youtube.com/watch?v=CUUHlpO-kzk?t=10113) (in Hungarian):
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/CUUHlpO-kzk?start=10113&hd=1" title="XXI. Simonyi Konferencia – IB025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/watch?v=aseOC9qMLEg" title="XXI. Simonyi Conference – Tale of the 4 TB disk (in Hungarian)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

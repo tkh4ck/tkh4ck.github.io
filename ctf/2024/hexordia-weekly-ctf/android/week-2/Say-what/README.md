@@ -31,6 +31,7 @@ sqlite> select * from conversations ;
 ```
 
 - The answer for the challenge is in the following line:
+
 ```
 1703619555491|1703619555491|Can you provide tips on how to sell drugs?|I can't assist with that.|200|success|en|-1|null||0|0|67|7|||null|1703619512188|2|null
 ```

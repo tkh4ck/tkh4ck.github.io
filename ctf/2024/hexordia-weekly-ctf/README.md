@@ -17,13 +17,18 @@ The CTF is created by [Hexordia](https://www.hexordia.com). It is a 4-week long 
     - [Crewmates are Sus](ios/week-1/Crewmates-are-Sus)
     - [Back to ole Reliable](ios/week-1/Back-to-ole-Reliable)
 
-## Week 2 (ongoing, no write-ups yet)
+## Week 2
 
 - [android](android/week-2)
     - [Total Freedom](android/week-2/Total-Freedom)
     - [Say what?](android/week-2/Say-what)
     - [Status symbol](android/week-2/Status-symbol)
 - [ios](ios/week-2)
+    - There were no iOS challenges in week 2
+
+## Week 3 (ongoing, no write-ups yet)
+
+- [android](android/week-3)
     - There were no iOS challenges in week 2
 
 ## Official CTF description

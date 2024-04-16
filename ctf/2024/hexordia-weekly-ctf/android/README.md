@@ -8,3 +8,5 @@
     - [Total Freedom](week-2/Total-Freedom)
     - [Say what?](week-2/Say-what)
     - [Status symbol](week-2/Status-symbol)
+- [Week 3][week-3]
+    - There were no Android challenges

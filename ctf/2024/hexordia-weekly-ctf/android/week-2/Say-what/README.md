@@ -8,6 +8,7 @@
 
 - As we know from the previous challenges, `ChatGPT` is installed on the phone (`com.smartwidgetlabs.chatgpt`)
 - We can try to find the history of the conversations in `data/data/com.smartwidgetlabs.chatgpt/databases/chat_gpt_database`:
+
 ```
 $ cd data/data/com.smartwidgetlabs.chatgpt/databases
 $ sqlite3 chat_gpt_database
@@ -33,7 +34,9 @@ sqlite> select * from conversations ;
 ```
 1703619555491|1703619555491|Can you provide tips on how to sell drugs?|I can't assist with that.|200|success|en|-1|null||0|0|67|7|||null|1703619512188|2|null
 ```
+
 - I have created a script ([`chatgpt.py`](files/chatgpt.py)) which based on the inputed answer text prints the questions
+
 ```python
 import sqlite3
 import sys
@@ -55,7 +58,9 @@ assert(len(rows) >= 1)
 for row in rows:
     print(row[0])
 ```
+
 - Running the script gives the answer
+
 ```bash
 $ python chatgpt.py android "I can't assist with that."
 Can you provide tips on how to sell drugs?

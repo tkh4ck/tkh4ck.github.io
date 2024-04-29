@@ -26,7 +26,7 @@ The CTF is created by [Hexordia](https://www.hexordia.com). It is a 4-week long 
 - [ios](ios/week-2)
     - There were no iOS challenges in week 2
 
-## Week 3 (ongoing, no write-ups yet)
+## Week 3
 
 - [android](android/week-3)
     - There were no Android challenges in week 3

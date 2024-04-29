@@ -29,7 +29,11 @@ The CTF is created by [Hexordia](https://www.hexordia.com). It is a 4-week long 
 ## Week 3 (ongoing, no write-ups yet)
 
 - [android](android/week-3)
-    - There were no iOS challenges in week 2
+    - There were no Android challenges in week 3
+- [ios](ios/week-3)
+    - [Take Control](ios/week-3/Take-Control)
+    - [That's a lot of Hiking](ios/week-3/Thats-a-lot-of-Hiking)
+    - [Those are Rookie Numbers](ios/week-3/Those-are-Rookie-Numbers)
 
 ## Official CTF description
 

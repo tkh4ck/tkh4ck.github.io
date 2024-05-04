@@ -1,0 +1,57 @@
+// http://magma.maths.usyd.edu.au/calc/ 
+// Eduardo Ruiz Duarte  
+// toorandom@gmail.com 
+
+// First we define our environment for our "problem" 
+R<x,y,z> := RationalFunctionField(Rationals(),3); 
+problem := ((x/(y+z) + y/(x+z) + z/(x+y)) - 10) ; 
+// First note that we know a point after some computation (-336,912,432) that works but has a negative coordinate, the following function returns 0, which means that (x/(y+z) + y/(x+z) + z/(x+y)) - 10 = 0 (just put the -10 in the other side) 
+Evaluate(problem,[-336,912,432]); 
+ 
+// After the previous returned 0, we know the point fits, we continue. 
+// We multiply by all the denominators of "problem" to get a polynomials problem*Denominator(problem); 
+// We obtain a polynomial without denominators x^3 - 9*x^2*y - 9*x^2*z - 9*x*y^2 - 17*x*y*z - 9*x*z^2 + y^3 - 9*y^2*z - 9*y*z^2 + z^3 
+// We see it is cubic, three variables, and every term has the same degree (3), therefore this is a cubic homogeneous curve, we know there is a point which is not the solution we want the point (-336,912,432) fits in the original "problem" so it should fit in this new curve without denominators too (since no denominator becomes 0) we transform this equation to a "curve" in Projecive space of dimension 2 
+P2<x,y,z> := ProjectiveSpace(Rationals(),2); 
+C := Curve(P2,x^3 - 9*x^2*y - 9*x^2*z - 9*x*y^2 - 17*x*y*z - 9*x*z^2 + y^3 - 9*y^2*z - 9*y*z^2 + z^3); 
+ 
+// Fit the point to the curve C (no error is returned) 
+Pt := C![-336,912,432]; 
+ 
+// Since all cubic homogeneous curve with at least one point define an elliptc curve, we can transform  this curve C to an elliptc curve form and just like in cryptography, we will add this known point (mapped to the corresponded curve) with itself until we get only positive coordinates and go back to C (original Problem) 
+// Below, E is the curve, f is the map that maps   Points f:C -> E  (C is our original curve without denominators, both curves C,E are equivalent but in E we can "Add points" to get another point of E, and with f^-1 we can return to the point of C which is our original solution 
+E,f := EllipticCurve(C); 
+ 
+// g is the inverse g:E->C, f:C->E so g(f([-336,912,432]))=[-336,912,432] 
+g := f^-1; 
+ 
+// We try adding the known point Pt=[-336,912,432] mapped to E, 2..100 times to see if when mapped back the added point to C gives positive coordinates, this is 2*Pt, 3*Pt, ...., 100*Pt  and then mapping back to C all these. 
+for n:= 1 to 100 do 
+    // We calculate n times the point of C, known [-336,912,432] but mapped (via f) inside E (where we can do the "n times")  
+    nPt_inE:=n*f(Pt); 
+    
+    // We take this point on E back to C via f^-1  (which we renamed as g) 
+    nPt_inC:=g(nPt_inE); 
+ 
+    // We obtain each coordinate of this point to see if is our positive solution, here MAGMA scales automatically the point such as Z is one always 1, so it puts the same denominators in X,Y, so numerators of X,Y are our solutions and denominator our Z, think of  P=(a/c,b/c,1)   then c*P=(a,b,c) 
+    X := Numerator(nPt_inC[1]); 
+    Y := Numerator(nPt_inC[2]); 
+    Z := Denominator(nPt_inC[1]); 
+ 
+    printf "X=%o\nY=%o\nZ=%o\n",X,Y,Z; 
+ 
+    // We check the condition for our original problem. 
+    if ((X gt 0) and (Y gt 0)) then 
+        printf("GOT IT!!! x=apple, y=banana, z=pineapple, check the above solution\n"); 
+        break; 
+    else 
+        printf "Nee, some coordinate was negative above, I keep in the loop\n\n"; 
+    end if; 
+end for;    
+ 
+// We check the solution fits in the original problem 
+if Evaluate(problem, [X,Y,Z]) eq 0 then 
+    printf "I evaluated the point to the original problem and yes, it worked!\n"; 
+else 
+    printf "Mmm this cannot happen!\n"; 
+end if; 

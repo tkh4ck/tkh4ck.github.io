@@ -4,7 +4,7 @@
 
 > An AWS development company that provides full-scale cloud consulting and AWS application development services has recently been compromised. They try to maintain cyber hygiene by applying numerous procedures and safe development practices. To this day, they are unaware of how malware could penetrate their defenses. We have managed to obtain a memory dump and isolate the compromised server. Can you analyze the dump and examine the malware's behavior?
 
-- [forensics_squatbot.zip](https://nextcloud.ukatemi.com/s/tEy3XN29ck7m97g) (~200 MB) - Ask the password from me
+- `forensics_squatbot.zip` (~200 MB) - Ask the file from me
   - `dump.mem`
   - `Ubuntu_4.15.0-184-generic_profile.zip`
 
@@ -496,7 +496,7 @@ Thanks for helping!
 
 ## Files
 
-- [forensics_squatbot.zip](https://nextcloud.ukatemi.com/s/tEy3XN29ck7m97g) (~200 MB): Challenge files, ask the password from me
+- `forensics_squatbot.zip` (~200 MB): Challenge files, ask them from me
   - `dump.mem`
   - `Ubuntu_4.15.0-184-generic_profile.zip`
 - [backdoor.py](files/backdoor.py): Backdoor Python code in the executed `boto3` `setup.py`

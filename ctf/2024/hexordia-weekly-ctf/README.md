@@ -35,6 +35,14 @@ The CTF is created by [Hexordia](https://www.hexordia.com). It is a 4-week long 
     - [That's a lot of Hiking](ios/week-3/Thats-a-lot-of-Hiking)
     - [Those are Rookie Numbers](ios/week-3/Those-are-Rookie-Numbers)
 
+## Week 4
+
+- [android](android/week-4)
+    - [TEaM U prep](android/week-4/TEaM-U-prep)
+    - [Watch for ADitional straw](android/week-4/Watch-for-ADitional-straw)
+- [ios](ios/week-4)
+    - There were no iOS challenges in week 4
+
 ## Official CTF description
 
 > Each Monday at 11:00AM ET, starting with the launch of the event on April 1, 2024 a new weekly challenge will be unlocked for participants to solve. For those who are interested, you’ll have one week to solve the question, followed by one additional week to write a blog for additional points. The Hexordia team will review the questions two weeks after they are initially posted, providing the solution to the solve on the weekly video. Each week when the new question is unlocked, the previous week’s question will be removed, so make sure to get your answers in!

@@ -83,6 +83,9 @@ $ cat flag.txt
 That's easy... 
 ```
 
-I have no idea what is the last step...
+~~I have no idea what is the last step...~~
 
-Flag: `HCSC24{???}`
+Now we have to start from `p` and step as the Fibonacci sequence:
+`p` -> +1 -> `H` -> +1 `y` +2 -> `S` -> +3 -> `3` -> +5 -> `q` -> ...
+
+Flag: `HCSC24{pHyS3quenc3}`

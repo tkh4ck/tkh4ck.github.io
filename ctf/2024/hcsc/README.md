@@ -53,8 +53,9 @@ Normal challenges:
 - [welcome](welcome)
     - [Welcome](welcome/Welcome/)
 
-Forensics VM (defense) challenges (TODO):
+Forensics VM (defense) challenges:
 
+- [Forensics intro](defense/Forensic-intro)
 - [Forensics 1](defense/Forensic-1)
 - [Forensics 2](defense/Forensic-2)
 - [Forensics 3](defense/Forensic-3)
@@ -68,6 +69,6 @@ Forensics VM (defense) challenges (TODO):
 - [Forensics 11](defense/Forensic-11)
 - [Forensics 12](defense/Forensic-12)
 
-![Result](media/result.png)
+![Results](media/result.png)
 
 ![Result announcement](media/result-announcement.png)

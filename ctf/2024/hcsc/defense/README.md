@@ -1,5 +1,6 @@
 # Hungarian Cyber Security Challenge (HCSC) - `defense` category
 
+- [Forensics intro](Forensic-intro)
 - [Forensics 1](Forensic-1)
 - [Forensics 2](Forensic-2)
 - [Forensics 3](Forensic-3)

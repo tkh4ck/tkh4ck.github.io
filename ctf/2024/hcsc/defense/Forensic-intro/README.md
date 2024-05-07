@@ -10,14 +10,12 @@ Your task is to investigate how deeply the system was compromised and how the ha
 
 
 Defense VM resource requirements:
-
-6 GB RAM
+- 6 GB RAM
 Min. 50GB storage space
 VMware Workstation Player 17 
-
-Local Administrator login credentials:
-User: player
-Password: Hcsc2024
+- Local Administrator login credentials:
+User: `player`
+Password: `Hcsc2024`
 
 Flags accepted as case insensitive (unless otherwise stated), format examples always given in challenge description.
 
@@ -25,10 +23,11 @@ Forensic VM flags require a writeup, template provided here. Read the instructio
 
 ## Metadata
 
-- Filename: 
-- Tags: 
-- Points: 0
-- Number of solvers: 0
+- Tags: `intro`
+- Points: `0`
+- Number of solvers: `0`
+- Filename: [`HCSC2024_writeupsTemplate.rtf`](files/HCSC2024_writeupsTemplate.rtf)
 
 ## Solution
 
+No flag here.

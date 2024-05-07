@@ -18,7 +18,7 @@ Készítői kommentek:
 
 ## Metadata
 
-- Tags: 
+- Tags: `nbd`, `ext4`, `undelete`
 - Points: `450`
 - Number of solvers: `15`
 - Filename: -

@@ -10,6 +10,6 @@ To reflect on the presentation:
 - I was afraid of the timing because previously this topic only fitted into a 2-hour long lecture. The presentation was a few minutes longer than the allocated 20 minutes and I had to rush a bit at the end, it wasn't a perfect finish to be honest, too sudden.
 - The lights were unusual for me and I constantly stepped out them (I was in the shadow). It is a reflex that if I see a bright light during a presentation, it means that I'm in the path of the projector and block the presentation / projection. I this case it could not happened as there were no projectors, only an LED wall...
 
-The presentation was recorded and can be seen [here](https://www.youtube.com/watch?v=CUUHlpO-kzk?t=10113) (in Hungarian):
+The presentation was recorded and can be seen [here](https://www.youtube-nocookie.com/embed/DGykIKTaoeI) (in Hungarian):
 
-<iframe width="1280" height="720" src="https://www.youtube.com/watch?v=aseOC9qMLEg" title="XXI. Simonyi Conference – Tale of the 4 TB disk (in Hungarian)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/DGykIKTaoeI" title="XXI. Simonyi Conference – Tale of the 4 TB disk (in Hungarian)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

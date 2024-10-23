@@ -20,7 +20,7 @@ So, what do you have planned? Care to join me in a Linux session?*
 
 ### Video
 
-<iframe width="1280" height="720" src="https://youtu.be/LtHHYrNxOEw?t=226" title="SANS Holiday Hack Challenge 2023 - Linux 101" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/LtHHYrNxOEw?start=226" title="SANS Holiday Hack Challenge 2023 - Linux 101" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Write-up
 

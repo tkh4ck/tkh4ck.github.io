@@ -31,7 +31,7 @@ Oh, and if you need to peek at the Function App code, there's a handy Azure REST
 
 ### Video
 
-<iframe width="1280" height="720" src="https://youtu.be/LtHHYrNxOEw?t=3100" title="SANS Holiday Hack Challenge 2023 - Cerificate SSHenanigans" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/LtHHYrNxOEw?start=3100" title="SANS Holiday Hack Challenge 2023 - Cerificate SSHenanigans" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Write-up
 

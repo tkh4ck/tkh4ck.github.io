@@ -90,4 +90,6 @@ b'Congratulations! Here is the flag: HCSC24{d1d_y0u_f1nd_th3_d4t4s3t_4nd_h4shed_
 
 The official write-up by `MJ` is available at: <https://github.com/NIK-SOC/hcsc_2024_mj/tree/main/ctf-2beornot2bee>
 
+The solution from `fadedave` is at [fadedave-solution.ipynb](files/fadedave-solution.ipynb).
+
 Flag: `HCSC24{d1d_y0u_f1nd_th3_d4t4s3t_4nd_h4shed_or_d1d_u_use_ml?}`

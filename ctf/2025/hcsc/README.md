@@ -13,7 +13,7 @@ Some statistics about the competition:
 - 72 hours of hacking
 - 229 competitors submitted at least 1 flag
 
-I achieved the 6th place. To get the final picture, this year's HCSC was a very tight competition, there was only a one challenge gap between the 1st and the 6th place, so I was really close, but really fat. I'm not satisfied, I could not solve 4 challenge, 2 of the were very close and I also mismanaged my time and sleeping schedule. Next time! Congratulations to all other competitiors, especially the winners of each category. And of course, many thanks to the Organizers!
+I achieved the 6th place. To get the final picture, this year's HCSC was a very tight competition, there was only a one challenge gap between the 1st and the 6th place, so I was really close, but really far. I'm not satisfied, I could not solve 4 challenges, 2 of the were very close and I also mismanaged my time and sleeping schedule. Next time! Congratulations to all other competitiors, especially the winners of each category. And of course, many thanks to the Organizers!
 
 Normal challenges:
 
@@ -21,7 +21,7 @@ Normal challenges:
     - [Eccentric](crypto/Eccentric/)
     - [Liberty Statue](crypto/Liberty-Statue/)
 - [forensics](forensics)
-    - [Nice Job](forensics/Nice-Job/)
+    - [Nice Job](forensics/Nice-Job/) - TBD
 - [misc](misc)
     - [Amazeing Blockchain](misc/Amazeing-Blockchain/)
     - [Binge Watch](misc/Binge-Watch/)
@@ -47,7 +47,7 @@ Normal challenges:
 - [welcome](welcome)
     - [welcome](welcome/welcome/)
 
-Forensics VM (defense) challenges:
+Forensics VM (defense) challenges - TBD:
 
 - [Forensics 1](defense/Forensic-1)
 - [Forensics 2](defense/Forensic-2)

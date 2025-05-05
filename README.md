@@ -19,6 +19,8 @@ You can reach me via [email](mailto:tkh4ck@proton.me) or [Twitter](https://twitt
 
 ## CTFs
 
+- [2025](ctf/2025)
+  - [Hungarian Cyber Security Challenge (HCSC)](ctf/2025/hcsc)
 - [2024](ctf/2024)
   - [Hungarian Cyber Security Challenge (HCSC)](ctf/2024/hcsc)
   - [Hexordia Weekly CTF](ctf/2024/hexordia-weekly-ctf)

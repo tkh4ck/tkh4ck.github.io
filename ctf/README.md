@@ -1,5 +1,7 @@
 # CTF
 
+- [2025](2025)
+  - [Hungarian Cyber Security Challenge (HCSC)](2025/hcsc)
 - [2024](2024)
   - [Hungarian Cyber Security Challenge (HCSC)](2024/hcsc)
   - [Hexordia Weekly CTF](2024/hexordia-weekly-ctf)

@@ -1,6 +1,7 @@
 # CTF
 
 - [2025](2025)
+  - [CyberQuest](2025/cyberquest)
   - [Hungarian Cyber Security Challenge (HCSC)](2025/hcsc)
 - [2024](2024)
   - [Hungarian Cyber Security Challenge (HCSC)](2024/hcsc)

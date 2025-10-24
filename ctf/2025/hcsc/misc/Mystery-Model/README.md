@@ -91,7 +91,7 @@ with torch.no_grad():
 
 # Convert output tensor to ASCII string
 flag = ''.join(chr(c.item()) for c in output)
-print(f"HCSC{{{flag}}}")
+print("HCSC{"+flag+"}")
 ```
 
 The flag is: `HCSC{is_this_really_the_flag_or_is_ai_hallucinating}`

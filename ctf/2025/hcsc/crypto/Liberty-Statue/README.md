@@ -8,7 +8,7 @@ Flag format: `HCSC{...}`
 
 ## Metadata
 
-- Filename: [`liberty_statue.jpg](files/liberty_statue.jpg)
+- Filename: [`liberty_statue.jpg`](files/liberty_statue.jpg)
 - Tags: `not-crypto`, `stego`, `strings`, `exiftool`, `steghide`
 - Points: 150
 - Number of solvers: 134

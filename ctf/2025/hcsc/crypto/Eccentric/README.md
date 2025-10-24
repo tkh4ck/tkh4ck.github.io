@@ -90,7 +90,7 @@ shared_secret = scalar_mult(alice_secret, bob_pub, a, p)
 shared_x = shared_secret[0]
 flag_hash = sha1(str(shared_x).encode()).hexdigest()
 
-flag = f"HCSC{{{flag_hash}}}"
+flag = "HCSC{"+flag_hash+"}"
 print(flag)
 ```
 
